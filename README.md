@@ -16,7 +16,7 @@ The series reconstructs the apostolic movement as Torah-observant within first-c
 ---
 
 ## 🧩 Structure
-
+```
 apostles-and-the-torah/
 ├── README.md
 ├── parts/
@@ -37,7 +37,7 @@ apostles-and-the-torah/
 │   ├── supplement-5-torah-observant-church.md
 └── metadata/
     └── series-index.json
-
+```
 
 ---
 
