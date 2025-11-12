@@ -31,6 +31,7 @@ Part VII: Re-Examining Disputed Texts
 Part VIII: The Restoration of the Apostolic Vision  
 Part IX: Conclusion: Torah and Grace in Harmony  
 ---
+
 # I. Historical Premise: The Apostles within Judaism
 
 ## 1. A Jewish Worldview and Scriptural Framework
