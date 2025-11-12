@@ -45,7 +45,7 @@ Jesus’ declaration in Matthew 5:17 — “Do not think that I came to abolish 
 
 Tim Hegg notes that these terms appear frequently in rabbinic midrashim: “To destroy the Torah is to misinterpret it; to fulfill the Torah is to establish its true sense.” (4) Jesus therefore positions himself within the continuum of halakhic teachers, claiming ultimate interpretive authority. His ensuing examples — anger as murder, lust as adultery, mercy as the essence of justice — are internalizations, not negations.
 
-For a focused, text-driven treatment of what Yeshua meant by “I did not come to abolish but to fulfill” in Matthew 5:17–19, see Supplemental Study I: Yeshua’s Halakha and the Fulfillment of Torah.
+>For a focused, text-driven treatment of what Yeshua meant by “I did not come to abolish but to fulfill” in Matthew 5:17–19, see Supplemental Study I: Yeshua’s Halakha and the Fulfillment of Torah.
 
 ## 3. Torah as Covenant Instruction
 In the Hebrew Scriptures, Torah is relational. It is given to a redeemed people as guidance for covenant faithfulness (Deut 6:20–25). Obedience is the natural response of love: “If you love Me, keep My commandments” (Exod 20:6; John 14:15). This covenant logic pervades the New Testament. Paul insists that faith “establishes the Law” (Rom 3:31). For him, grace does not abolish obligation but empowers it.
@@ -70,7 +70,7 @@ Their disputes with the Pharisees — over Sabbath healing, hand-washing, and di
 ## 7. Pharisaic and Apostolic Halakhah
 The apostles inherited this pattern of interpretive debate. Acts portrays them worshiping in the Temple (Acts 2:46), attending synagogue (13:14–15), and teaching Torah ethics to mixed audiences. Their halakhic distinctiveness lay in recognizing Yeshua as the authoritative interpreter promised in Deut 18:18 — “a prophet like Moses.” They believed that his rulings represented the pure intention of Torah.
 
-For a data-driven overview of Acts as evidence of ongoing Temple, Sabbath, and festival observance, see Supplemental Study II.
+>For a data-driven overview of Acts as evidence of ongoing Temple, Sabbath, and festival observance, see Supplemental Study II.
 
 Paul’s disputes with contemporaries like the “circumcision party” (Gal 2) were not over Torah itself but over its application to Gentile converts. He opposed making circumcision a prerequisite for inclusion, arguing instead that faith in Messiah conferred covenant membership. Nevertheless, his own practice remained rigorously observant: circumcising Timothy (Acts 16:3), taking Nazirite vows (18:18; 21:26), and hastening to Jerusalem for the feast of Shavuot (20:16).
 
@@ -98,7 +98,7 @@ Craig Keener, The Gospel of Matthew: A Socio-Rhetorical Commentary (Eerdmans, 20
 E. P. Sanders, Jesus and Judaism (Fortress, 1985), 213.
 
 ## 📖 Continue the Series
-Series overview & index: The Apostles and the Torah — Complete 9-Part Core + 5 Supplemental Technical Studies: Open the Series Home (Index & Abstract)
+>Series overview & index: The Apostles and the Torah — Complete 9-Part Core + 5 Supplemental Technical Studies: Open the Series Home (Index & Abstract)
 
 Core (9): Part I • II • III • IV • V • VI • VII • VIII • IX
 
