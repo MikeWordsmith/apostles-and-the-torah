@@ -1,3 +1,4 @@
+<!--
 ---
 title: "Part I: The Historical Premise"
 series: "The Apostles and the Torah: Reconstructing the First-Century Church"
@@ -9,6 +10,7 @@ license: "CC BY 4.0"
 summary: "Establishes the historical and cultural premise for understanding the apostles within first-century Judaism, grounding the entire series in contextual method rather than post-Jewish interpretation."
 tags: [Historical Jesus, Apostles, Torah, Early Church, Judaism, Halakhah, Contextual Studies]
 ---
+-->
 
 > **Editor’s Note:**  
 > This article is Part I of the complete series (9 main parts + 5 integral supplemental studies) titled *“The Apostles and the Torah: Reconstructing the First-Century Church.”*  
