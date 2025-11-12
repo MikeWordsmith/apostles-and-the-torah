@@ -32,6 +32,7 @@ Part IX: Conclusion: Torah and Grace in Harmony
 
 
 # I. Historical Premise: The Apostles within Judaism
+![1_68ll2pAi3BZis7G27DYpig](https://github.com/user-attachments/assets/453452d9-6cee-45ae-b51e-fe1ead29a5bd)
 
 ## 1. A Jewish Worldview and Scriptural Framework
 The apostles lived and wrote entirely within the intellectual and spiritual world of Second Temple Judaism. Their “Bible” consisted solely of the Torah (Law), the Prophets, and the Writings. When they spoke of “Scripture,” they referred to what modern readers call the Tanakh — the only authoritative corpus then recognized by Israel (1). Concepts such as “faith,” “law,” “grace,” and “righteousness” drew their meaning from this Hebraic environment.
