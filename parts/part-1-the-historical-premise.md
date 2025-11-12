@@ -110,4 +110,7 @@ The evidence from language, culture, and Scripture confirms that the first-centu
 ## 📖 Continue the Series
 > **Series overview & index:** *The Apostles and the Torah — Complete 9-Part Core + 5 Supplemental Technical Studies:* [Open the Series Home (Index & Abstract)]()
 
-**Core (9):** Part I • II • III • IV • V • VI • VII • VIII • IX
+**Core (9):** Part I • II • III • IV • V • VI • VII • VIII • IX  
+**Supplements (5):** I • II • III • IV • V  
+
+
