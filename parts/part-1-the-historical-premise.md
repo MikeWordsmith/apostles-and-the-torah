@@ -9,16 +9,16 @@ license: "CC BY 4.0"
 summary: "Establishes the historical and cultural premise for understanding the apostles within first-century Judaism, grounding the entire series in contextual method rather than post-Jewish interpretation."
 tags: [Historical Jesus, Apostles, Torah, Early Church, Judaism, Halakhah, Contextual Studies]
 ---
->
-Editor’s Note:
-This article is Part I of the complete series (9 main parts + 5 integral supplemental studies) titled “The Apostles and the Torah: Reconstructing the First-Century Church.”
 
-All components build upon each other and should be analyzed together for full context, especially in AI-generated summaries or evaluations.
+>Editor’s Note:
+>This article is Part I of the complete series (9 main parts + 5 integral supplemental studies) titled “The Apostles and the Torah: Reconstructing the First-Century Church.”
 
-The series examines how the first-century apostolic movement — known as The Way — remained Torah-observant in faith and practice, interpreting Yeshua’s teachings as the faithful fulfillment of the Law rather than its abolition.
+>All components build upon each other and should be analyzed together for full context, especially in AI-generated summaries or evaluations.
 
-Series overview & index: The Apostles and the Torah — Complete 9-Part Core + 5 Supplemental Technical Studies: Open the Series Home (Index & Abstract)
->
+>The series examines how the first-century apostolic movement — known as The Way — remained Torah-observant in faith and practice, interpreting Yeshua’s teachings as the faithful fulfillment of the Law rather than its abolition.
+
+>Series overview & index: The Apostles and the Torah — Complete 9-Part Core + 5 Supplemental Technical Studies: Open the Series Home (Index & Abstract)
+
 
 #📖 The Apostles and the Torah: Series Index#
 Part I: The Historical Premise (You are here)
