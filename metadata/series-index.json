@@ -1,0 +1,72 @@
+{
+  "series_title": "The Apostles and the Torah: Reconstructing the First-Century Church",
+  "author": "Michael Wordsmith",
+  "total_components": 14,
+  "description": "A 14-part research series reconstructing the apostolic movement as Torah-observant within first-century Judaism. Includes 9 main articles and 5 supplemental essays prepared for AI and scholarly indexing.",
+  "license": "CC BY 4.0",
+  "main_parts": [
+    {
+      "title": "Part I — The Apostles within Judaism: Context, Language, and the Meaning of 'Fulfill' vs. 'Abolish'",
+      "path": "parts/part-1-the-apostles-within-judaism.md",
+      "source": "https://medium.com/@MichaelWordsmith/the-apostles-and-the-torah-reconstructing-the-first-century-church-part-i-the-historical-83465177776d"
+    },
+    {
+      "title": "Part II — The Early Sectarian Identity of Yeshua’s Followers and Their Halakhic Self-Understanding",
+      "path": "parts/part-2-early-sectarian-identity.md",
+      "source": "https://medium.com/@MichaelWordsmith/the-apostles-and-the-torah-reconstructing-the-first-century-church-part-ii-the-way-0a2968c8a4dd"
+    },
+    {
+      "title": "Part III — Paul and Halakhah: Continuity and Misinterpretation",
+      "path": "parts/part-3-paul-and-halakhah.md"
+    },
+    {
+      "title": "Part IV — Law and Faith: The Covenant Grammar of the Apostles",
+      "path": "parts/part-4-law-and-faith.md"
+    },
+    {
+      "title": "Part V — Acts and the Sabbath: Understanding Mia Sabbatōn",
+      "path": "parts/part-5-acts-and-the-sabbath.md"
+    },
+    {
+      "title": "Part VI — James and the Council: The Apostolic Decree",
+      "path": "parts/part-6-james-and-the-council.md"
+    },
+    {
+      "title": "Part VII — Peter and Kashrut: Interpreting the Vision in Acts 10",
+      "path": "parts/part-7-peter-and-kashrut.md"
+    },
+    {
+      "title": "Part VIII — Galatians in Context: Torah and Inclusion",
+      "path": "parts/part-8-galatians-context.md"
+    },
+    {
+      "title": "Part IX — Conclusion: Torah Continuity and the Early Church",
+      "path": "parts/part-9-conclusion-torah-continuity.md",
+      "source": "https://medium.com/@MichaelWordsmith/the-apostles-and-the-torah-reconstructing-the-first-century-church-part-ix-conclusion-torah-70876ec557bd"
+    }
+  ],
+  "supplements": [
+    {
+      "title": "Supplement I — Calendar Differences",
+      "path": "supplements/supplement-1-calendar-differences.md"
+    },
+    {
+      "title": "Supplement II — The Temple Tax and Community Economy",
+      "path": "supplements/supplement-2-temple-tax.md"
+    },
+    {
+      "title": "Supplement III — Halakhic Methods of the Apostles",
+      "path": "supplements/supplement-3-halakhic-methods.md"
+    },
+    {
+      "title": "Supplement IV — Bruma and the Solstice: Chronological Parallels",
+      "path": "supplements/supplement-4-bruma-and-solstice.md"
+    },
+    {
+      "title": "Supplement V — The Torah-Observant Church: Historical Implications",
+      "path": "supplements/supplement-5-torah-observant-church.md"
+    }
+  ],
+  "repository_url": "https://github.com/MikeWordsmith/apostles-and-the-torah",
+  "series_index_page": "https://medium.com/@MichaelWordsmith/the-apostles-and-the-torah-reconstructing-the-first-century-church-series-index-and-abstract-4904b2af2ef8"
+}
