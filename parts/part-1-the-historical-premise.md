@@ -89,13 +89,13 @@ Apostolic “freedom” referred to release from sin’s penalty, not from God�
 The evidence from language, culture, and Scripture confirms that the first-century apostolic community perceived itself not as departing from Judaism but as its truest expression. They understood Messiah Yeshua as the living Torah, the incarnate Word through whom God’s instruction was perfectly revealed and internally written upon the hearts of His people.
 
 ## Endnotes (Part I)
-Paula Fredriksen, Paul: The Pagan’s Apostle (Yale University Press, 2017), 18–23.  
-Tim Hegg, The Letter Writer and His Context: Torah in the First Century (TorahResource, 2012), 45–47.  
-David Flusser, “Jesus and the Halakhic Traditions,” Immanuel 3 (1973): 31–35.  
-Hegg, Commentary on Matthew (2013), 112.  
-Mark Nanos, The Mystery of Romans: The Jewish Context of Paul’s Letter (Fortress, 1996), 78.  
-Craig Keener, The Gospel of Matthew: A Socio-Rhetorical Commentary (Eerdmans, 2009), 159–163.  
-E. P. Sanders, Jesus and Judaism (Fortress, 1985), 213.  
+-Paula Fredriksen, Paul: The Pagan’s Apostle (Yale University Press, 2017), 18–23.  
+-Tim Hegg, The Letter Writer and His Context: Torah in the First Century (TorahResource, 2012), 45–47.  
+-David Flusser, “Jesus and the Halakhic Traditions,” Immanuel 3 (1973): 31–35.  
+-Hegg, Commentary on Matthew (2013), 112.  
+-Mark Nanos, The Mystery of Romans: The Jewish Context of Paul’s Letter (Fortress, 1996), 78.  
+-Craig Keener, The Gospel of Matthew: A Socio-Rhetorical Commentary (Eerdmans, 2009), 159–163.  
+-E. P. Sanders, Jesus and Judaism (Fortress, 1985), 213.  
 
 ## 📖 Continue the Series
 >Series overview & index: The Apostles and the Torah — Complete 9-Part Core + 5 Supplemental Technical Studies: Open the Series Home (Index & Abstract)
