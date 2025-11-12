@@ -11,6 +11,7 @@ summary: "Establishes the historical and cultural premise for understanding the 
 tags: [Historical Jesus, Apostles, Torah, Early Church, Judaism, Halakhah, Contextual Studies]
 ---
 -->
+# Part I: The Historical Premise
 
 > **Editor’s Note:**  
 > This article is Part I of the complete series (9 main parts + 5 integral supplemental studies) titled *“The Apostles and the Torah: Reconstructing the First-Century Church.”*  
