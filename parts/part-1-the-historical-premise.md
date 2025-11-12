@@ -20,16 +20,16 @@ tags: [Historical Jesus, Apostles, Torah, Early Church, Judaism, Halakhah, Conte
 >Series overview & index: The Apostles and the Torah — Complete 9-Part Core + 5 Supplemental Technical Studies: Open the Series Home (Index & Abstract)
 
 ---
-# 📖 The Apostles and the Torah: Series Index
-Part I: The Historical Premise (You are here)
-Part II: The Way
-Part III: The Jerusalem Council
-Part IV: Halakhic Disputes, Not Abolition
-Part V: The New Covenant and the Torah Written on the Heart
-Part VI: The Divergence from Torah Observance
-Part VII: Re-Examining Disputed Texts
-Part VIII: The Restoration of the Apostolic Vision
-Part IX: Conclusion: Torah and Grace in Harmony
+# 📖 The Apostles and the Torah: Series Index  
+Part I: The Historical Premise (You are here)  
+Part II: The Way  
+Part III: The Jerusalem Council  
+Part IV: Halakhic Disputes, Not Abolition  
+Part V: The New Covenant and the Torah Written on the Heart  
+Part VI: The Divergence from Torah Observance  
+Part VII: Re-Examining Disputed Texts  
+Part VIII: The Restoration of the Apostolic Vision  
+Part IX: Conclusion: Torah and Grace in Harmony  
 ---
 # I. Historical Premise: The Apostles within Judaism
 
