@@ -47,8 +47,9 @@ Christian theology often reads “New Covenant” as discontinuity — a replace
 
 Both Jeremiah and Paul describe the same transformation — *Torah* internalized by divine empowerment. Grace and obedience unite: grace enables what flesh could not. As Hegg observes, “The New Covenant does not annul Torah but inscribes it more deeply.” (2)
 
-![New Covenant Flow Chart illustration from Jeremiah 31 through Revelation](https://github.com/user-attachments/assets/example-placeholder.png)  
-*Figure 1 — Flowchart tracing Jeremiah 31, Hebrews 8–10, Ephesians 2, Romans 11, James, Revelation, and Zechariah 14 to show a consistent pattern: the New Covenant internalizes God’s Torah, removes Jew–Gentile hostility, and upholds God’s commandments rather than erasing Torah or the seventh-day Sabbath.*
+![Vertical flowchart beginning with Jeremiah 31’s promise to write God’s Torah on Israel’s heart; moving through Hebrews 8–10 (better priesthood and sacrifice, same “laws” on hearts), Ephesians 2 (hostility and dividing wall removed, not God’s will), Romans 11 (Gentiles grafted into Israel’s olive tree), James and Revelation (commandments of God plus faith in Yeshua), and Zech 14 (nations honoring YHWH, feast imagery). Concludes: the New Covenant is Torah internalized and expanded to the nations, not Torah abolished.](https://github.com/MikeWordsmith/apostles-and-the-torah/blob/main/assets/New%20Covenant%20Flowchart%20–%20Torah%20Internalized%20Not%20Erased.jpg?raw=true)  
+*Figure 1 — New Covenant Flow: From Jeremiah 31 to Revelation — the New Covenant internalizes God’s Torah, removes hostility, and upholds divine commandments rather than abolishing them.*
+
 
 ## 3. The Torah of the Spirit
 Paul’s theology of the Spirit develops this very idea. In Romans 8:4, he declares that “the righteous requirement of the Law might be fulfilled in us who walk according to the Spirit.” The Spirit’s work is not antithetical to Torah but instrumental in its realization. The “law of the Spirit of life” (8:2) liberates from sin’s penalty, not from divine instruction.
