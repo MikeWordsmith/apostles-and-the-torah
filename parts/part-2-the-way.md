@@ -11,6 +11,7 @@ summary: "Traces the earliest apostolic movement known as The Way, showing that 
 tags: [Apostles, Torah, Judaism, Yeshua, Halakhah, Early Church, The Way]
 ---
 -->
+# Part II: The Way
 > **Editor’s Note:**  
 > This article is Part II of the complete series (9 main parts + 5 supplemental studies) titled *“The Apostles and the Torah: Reconstructing the First-Century Church.”*  
 >
