@@ -23,7 +23,7 @@ tags: [Historical Jesus, Apostles, Torah, Early Church, Judaism, Halakhah, Conte
 > **Series overview & index:** *The Apostles and the Torah — Complete 9-Part Core + 5 Supplemental Technical Studies:* [Open the Series Home (Index & Abstract)]()
 
 # 📖 The Apostles and the Torah: Series Index  
-Part I: *The Historical Premise* (You are here)  
+Part I: *The Historical Premise* (**You are here**)  
 Part II: *The Way*  
 Part III: *The Jerusalem Council*  
 Part IV: *Halakhic Disputes, Not Abolition*  
