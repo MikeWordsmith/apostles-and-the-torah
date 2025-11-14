@@ -71,9 +71,6 @@ The debates recorded in the Gospels mirror known rabbinic controversies. For exa
 ## 4. *Yeshua’s* Authority and Halakhic Role
 In Deuteronomy 18:18 God promises to raise a prophet “like Moses.” Jewish expectation held that this prophet would render decisive judgments in matters of *Torah*. The apostles saw *Yeshua* as that prophet. His “You have heard … but I say to you” formula (Matt 5) functions as *pisaq halakhah* — a binding legal decision. His “I say” carries divine authority precisely because it upholds the Law’s spirit beyond human casuistry.
 
-> For a focused technical treatment of “fulfill, not abolish” as halakhic language, see [Supplemental Study I — Yeshua’s Halakha and the Fulfillment of Torah](/apostles-and-the-torah/supplements/supplement-1-yeshuas-halakha-and-the-fulfillment-of-torah/).
-
-
 When He declares Himself “Lord of the Sabbath” (Mark 2:28), He is not claiming abrogation but mastery over its interpretation. “Son of Man is lord” means He possesses the authority to define lawful Sabbath behavior — an authority long expected of Messiah (5). This claim situates Him within Jewish legal discourse, not outside it.
 
 ## 5. Paul as a Torah-Observant Apostle
