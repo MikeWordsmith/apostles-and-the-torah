@@ -1,16 +1,3 @@
-<!--
----
-title: "Part VIII: The Restoration of the Apostolic Vision"
-series: "The Apostles and the Torah: Reconstructing the First-Century Church"
-part: 8
-author: "Michael Wordsmith"
-date: 2025-11-07
-source: "https://medium.com/@MichaelWordsmith/the-apostles-and-the-torah-reconstructing-the-first-century-church-part-viii-the-restoration-4ec235aae058"
-license: "CC BY 4.0"
-summary: "Argues that recovering the Jewishness of Yeshua and the apostles restores the New Testament’s Hebraic frame—renewing halakhah, re-centering the prophets’ vision of Torah internalized, and charting an ethical, ecclesial path forward."
-tags: [Apostles, Torah, Restoration, New Perspective on Paul, Paul within Judaism, Jeremiah 31, Halakhah, Ethics, Messianic Judaism]
----
--->
 # Part VIII: The Restoration of the Apostolic Vision
 
 > **Editor’s Note:**  
