@@ -12,11 +12,14 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# ✅ Make sure all JSON in /series is published (not processed, just copied)
+# 🚫 Disable ALL top navigation items (clean header)
+header_pages: []
+
+# 📂 Ensure JSON in /series is published
 include:
   - series
 
-# ❌ Do not exclude JSON; keep this list lean
+# 🧹 Exclude unnecessary files
 exclude:
   - README.md
   - LICENSE
@@ -26,7 +29,7 @@ exclude:
   - .gitignore
   - .github/
 
-# Collections (your /parts and /supplements are pages in folders; this keeps nice URLs)
+# 📚 Collections for nice URLs
 collections:
   parts:
     output: true
@@ -35,9 +38,10 @@ collections:
     output: true
     permalink: /supplements/:path/
 
-# Nice URLs for regular pages as well (no .html in links)
+# 🔗 Pretty URLs (no .html needed in links)
 permalink: /:path/
 
+# 🌐 Default metadata
 defaults:
   - scope:
       path: ""
