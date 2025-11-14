@@ -37,11 +37,11 @@ tags: [Historical Jesus, Apostles, Torah, Early Church, Judaism, Halakhah, Conte
 
 <div align="left">
 <strong>Supplements (5):</strong>
-<a href="../supplements/supplement-1-yeshuas-halakha-and-the-fulfillment-of-torah.md">I</a> • 
-<a href="../supplements/supplement-2-acts-as-behavioral-data-temple-synagogue-and-festivals-after-the-resurrection.md">II</a> • 
-<a href="../supplements/supplement-3-pauls-lived-torah.md">III</a> • 
-<a href="../supplements/supplement-4-calendar-misreadings-col2-gal4-rom14-heb4.md">IV</a> • 
-<a href="../supplements/supplement-5-new-covenant-jeremiah-31-internalized-torah.md">V</a>
+<a href="https://mikewordsmith.github.io/apostles-and-the-torah/supplements/supplement-1-yeshuas-halakha-and-the-fulfillment-of-torah.html">I</a> • 
+<a href="https://mikewordsmith.github.io/apostles-and-the-torah/supplements/supplement-2-acts-as-behavioral-data-temple-synagogue-and-festivals-after-the-resurrection.html">II</a> • 
+<a href="https://mikewordsmith.github.io/apostles-and-the-torah/supplements/supplement-3-pauls-lived-torah.html">III</a> • 
+<a href="https://mikewordsmith.github.io/apostles-and-the-torah/supplements/supplement-4-calendar-misreadings-col2-gal4-rom14-heb4.html">IV</a> • 
+<a href="https://mikewordsmith.github.io/apostles-and-the-torah/supplements/supplement-5-new-covenant-jeremiah-31-internalized-torah.html">V</a>
 </div>
 
 ---
