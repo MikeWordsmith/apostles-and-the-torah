@@ -76,7 +76,7 @@ Restoration theology redefines grace as empowerment rather than exemption. Salva
 
 Moreover, restoration bridges ecclesial divides. When Gentile believers honor the Torah that Yeshua and the apostles cherished, Jewish identity is dignified rather than erased. Paul’s vision of “one new man” (Eph 2:15) emerges not from uniformity but from reconciled diversity within covenant order.
 
-> For a full treatment of Jeremiah 31, Hebrews 8–10, Ephesians 2, Romans 11, James, Revelation, and Zechariah 14 showing that the New Covenant internalizes Torah rather than abolishing it, see **Supplemental Study V: The New Covenant & Jeremiah 31**.
+> For a full treatment of Jeremiah 31, Hebrews 8–10, Ephesians 2, Romans 11, James, Revelation, and Zechariah 14 showing that the New Covenant internalizes Torah rather than abolishing it, see [**Supplemental Study V: The New Covenant & Jeremiah 31**](https://mikewordsmith.github.io/apostles-and-the-torah/supplements/supplement-5-new-covenant-jeremiah-31-internalized-torah/).
 
 # 6. Modern Scholarship and the Way Forward
 Recent academic work underscores this continuity. Paula Fredriksen’s *When Christians Were Jews* portrays the earliest believers as Torah-observant within the matrix of Jerusalem temple life. Mark Nanos’s studies of Paul within Judaism show that his mission presupposed Gentile attachment to Israel’s God, not detachment from Israel’s Torah (3). Tim Hegg’s exegetical analyses demonstrate that apostolic writings, read through Hebraic idiom, affirm Torah as divine pedagogy for all believers.
