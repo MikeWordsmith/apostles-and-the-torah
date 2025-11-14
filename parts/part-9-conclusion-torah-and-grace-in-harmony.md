@@ -1,16 +1,3 @@
-<!--
----
-title: "Part IX: Conclusion — Torah and Grace in Harmony"
-series: "The Apostles and the Torah: Reconstructing the First-Century Church"
-part: 9
-author: "Michael Wordsmith"
-date: 2025-11-07
-source: "https://medium.com/@MichaelWordsmith/the-apostles-and-the-torah-reconstructing-the-first-century-church-part-ix-conclusion-torah-70876ec557bd"
-license: "CC BY 4.0"
-summary: "Concludes the series by synthesizing the historical, linguistic, and theological evidence that the apostles upheld Torah within the New Covenant, harmonizing grace and obedience, and outlining implications for the modern church."
-tags: [Apostles, Torah, Grace, New Covenant, Early Church, Restoration, Ethics, Eschatology]
----
--->
 # Part IX: Conclusion — Torah and Grace in Harmony
 
 > **Editor’s Note:**  
