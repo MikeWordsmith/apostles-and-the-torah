@@ -36,7 +36,12 @@ tags: [Historical Jesus, Apostles, Torah, Early Church, Judaism, Halakhah, Conte
 **Part IX** — [*Conclusion — Torah and Grace in Harmony*](part-9-conclusion-torah-and-grace-in-harmony.md)
 
 <div align="left">
-<strong>Supplements (5):</strong> <a href="../supplements/Supplement%20I%20-%20Yeshua%27s%20Halakha.md">I</a> • <a href="../supplements/Supplement%20II%20-%20Acts%20Behavioral%20Data.md">II</a> • <a href="../supplements/Supplement%20III%20-%20Pauls%20Lived%20Torah.md">III</a> • <a href="../supplements/Supplement%20IV%20-%20Calendar%20Misreadings.md">IV</a> • <a href="../supplements/Supplement%20V%20-%20New%20Covenant.md">V</a>
+<strong>Supplements (5):</strong>
+<a href="../supplements/supplement-1-yeshuas-halakha-and-the-fulfillment-of-torah.md">I</a> • 
+<a href="../supplements/supplement-2-acts-as-behavioral-data-temple-synagogue-and-festivals-after-the-resurrection.md">II</a> • 
+<a href="../supplements/supplement-3-pauls-lived-torah.md">III</a> • 
+<a href="../supplements/supplement-4-calendar-misreadings-col2-gal4-rom14-heb4.md">IV</a> • 
+<a href="../supplements/supplement-5-new-covenant-jeremiah-31-internalized-torah.md">V</a>
 </div>
 
 ---
@@ -129,6 +134,11 @@ The evidence from language, culture, and Scripture confirms that the first-centu
 <a href="../parts/part-9-conclusion-torah-and-grace-in-harmony.md">IX</a>  
 <br>
 
-**Supplements (5):** I • II • III • IV • V  
-
-
+<div align="left">
+<strong>Supplements (5):</strong>
+<a href="../supplements/supplement-1-yeshuas-halakha-and-the-fulfillment-of-torah.md">I</a> • 
+<a href="../supplements/supplement-2-acts-as-behavioral-data-temple-synagogue-and-festivals-after-the-resurrection.md">II</a> • 
+<a href="../supplements/supplement-3-pauls-lived-torah.md">III</a> • 
+<a href="../supplements/supplement-4-calendar-misreadings-col2-gal4-rom14-heb4.md">IV</a> • 
+<a href="../supplements/supplement-5-new-covenant-jeremiah-31-internalized-torah.md">V</a>
+</div>
