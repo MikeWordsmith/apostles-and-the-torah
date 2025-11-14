@@ -23,6 +23,7 @@ Technical Appendix to “The Apostles and the Torah: Reconstructing the First-Ce
 ---
 
 # Introduction
+![Answering the question: Did Jesus, the apostles, Paul, and the New Testament Church keep the Torah?](../assets/The%20apostles%20and%20the%20torah%20-%20Reconstructing%20the%20first%20century%20church.jpg)
 
 If the Torah had been set aside by Yeshua or His apostles — if the Sabbath had been shifted to Sunday, if the festivals were now considered obsolete shadows — we should expect the earliest post-resurrection history to tell us so.  
 
@@ -172,6 +173,7 @@ He assumes a world where Moses is still read, Sabbath is still kept, and Gentile
 
 > Acts 15 restricts the misuse of Torah as a salvation gate, not Torah itself. It upholds a space where Torah continues to be read and lived, while Gentiles are welcomed as Gentiles who turn from idols to the God of Israel.
 
+
 ---
 
 # 6. Silence Where a Revolution Would Be Loud
@@ -197,11 +199,14 @@ The simplest explanation is the one your main series advances:
 >The apostolic ekklēsia is a Torah-observant Jewish movement in Messiah, with halakhic developments centered on Yeshua, and with an open door to Gentiles - without demanding proselyte conversion or endorsing Torah-lessness.
 
 ---
+<p align="center"><strong>Timeline — Apostolic Era vs. Sunday Shift</strong></p>
+<p align="center">
+  <img src="../assets/Apostolic%20Timeline%20%E2%80%93%20Sabbath%20vs%20Sunday%20Shift.png"
+       alt="Horizontal timeline from c. 30 CE to the 4th century. It marks Yeshua’s Sabbath-keeping ministry, the Acts period of Temple, Sabbath, and feast observance, the Jerusalem Council affirming Moses read every Sabbath, the destruction of the Temple, early “Lord’s Day” references, and finally 2nd–4th century consolidation of Sunday. Emphasizes that the apostolic era is Torah-observant and seventh-day-Sabbath-based, while systematic Sunday replacement is a later development."
+       width="900">
+</p>
 
-# Timeline — Apostolic Era vs. Sunday Shift
-
-![Timeline — From Yeshua to the Post-Apostolic Sunday Shift. Visual summary showing Yeshua and the apostles consistently attending synagogue on the seventh-day Sabbath, observing the festivals, and treating Moses as authoritative throughout the first century, with Sunday prominence and anti-Sabbath attitudes emerging only later in post-apostolic, largely Gentile Christianity.](../assets/timeline-apostolic-vs-sunday-shift.png)  
-*Figure: Apostolic era vs. post-apostolic Sunday shift.*
+<p align="center"><strong>Timeline: From Yeshua to the Post-Apostolic Sunday Shift</strong> — Visual summary showing Yeshua and the apostles consistently attending synagogue on the seventh-day Sabbath, observing the festivals, and treating Moses as authoritative throughout the first century, with Sunday prominence and anti-Sabbath attitudes appearing only later in post-apostolic, largely Gentile Christianity.</p>
 
 ---
 
