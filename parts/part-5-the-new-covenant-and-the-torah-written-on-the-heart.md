@@ -99,7 +99,7 @@ Grace in the apostolic worldview does not eliminate covenant responsibility but 
 
 Thus, the New Covenant represents divine partnership: God initiates transformation; humans respond through obedience. The moral structure of Torah remains the template for sanctified life.
 
-> For a unified study of Paul’s life (Acts 18, 21, 24) and letters (Romans, Corinthians, Galatians) as Torah-faithful in Messiah — see **Supplemental Study III: Paul’s Lived Torah.**
+> For a unified study of Paul’s life (Acts 18, 21, 24) and letters (Romans, Corinthians, Galatians) as Torah-faithful in Messiah — see [**Supplemental Study III: Paul’s Lived Torah**](https://mikewordsmith.github.io/apostles-and-the-torah/supplements/supplement-3-pauls-lived-torah/).
 
 ## 9. Summary of Section V
 - Jeremiah 31 predicts *Torah* internalization, not abolition.  
