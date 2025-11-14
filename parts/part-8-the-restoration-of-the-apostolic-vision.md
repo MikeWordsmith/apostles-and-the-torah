@@ -38,6 +38,7 @@ Part IX: Conclusion: Torah and Grace in Harmony
 ---
 
 # VIII. The Restoration of the Apostolic Vision
+![Answering the question: Did Jesus, the apostles, Paul, and the New Testament Church keep the Torah?](../assets/The%20apostles%20and%20the%20torah%20-%20Reconstructing%20the%20first%20century%20church.jpg)
 
 # 1. Recovering the Hebraic Framework
 The rediscovery of the Jewishness of Yeshua and the apostles represents one of the most significant theological shifts of the past century. Scholarly movements such as the “New Perspective on Paul” (Sanders, Dunn, Wright) and the “Paul within Judaism” school (Nanos, Zetterholm, Eisenbaum) have dismantled long-standing caricatures of Torah as legalistic bondage. Paul emerges as a faithful Jew articulating inclusion of Gentiles without dismantling the covenantal structure of Israel (1).
