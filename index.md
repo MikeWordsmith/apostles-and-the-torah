@@ -50,31 +50,31 @@ It concludes that:
 
 ### 🧩 Core 9-Part Series
 
-1. [**Part I — The Historical Premise**](parts/Part%20I%20-%20The%20Historical%20Premise.md)  
+1. [**Part I — The Historical Premise**](parts/part-1-the-historical-premise.md)  
    *The Apostles within Judaism — Context, language, and the meaning of “fulfill” vs. “abolish.”*
 
-2. [**Part II — The Way**](parts/Part%20II%20-%20The%20Way.md)  
+2. [**Part II — The Way**](parts/part-2-the-way.md)  
    *The early sectarian identity of Yeshua’s followers and their halakhic self-understanding.*
 
-3. [**Part III — The Jerusalem Community**](parts/Part%20III%20-%20The%20Jerusalem%20Community.md)  
+3. [**Part III — The Jerusalem Council**](parts/part-3-the-jerusalem-council.md)  
    *Gentile inclusion through Torah ethics — Acts 15 and the “resident alien” model.*
 
-4. [**Part IV — Halakhic Disputes, Not Abolition**](parts/Part%20IV%20-%20Halakhic%20Disputes.md)  
+4. [**Part IV — Halakhic Disputes, Not Abolition**](parts/part-4-halakhic-disputes-not-abolition.md)  
    *Jesus, Pharisees, and the legitimate debates within Torah interpretation.*
 
-5. [**Part V — The New Covenant and the Torah Written on the Heart**](parts/Part%20V%20-%20The%20New%20Covenant%20and%20the%20Torah.md)  
+5. [**Part V — The New Covenant and the Torah Written on the Heart**](parts/part-5-the-new-covenant-and-the-torah-written-on-the-heart.md)  
    *Jeremiah 31 and the apostolic theology of internalized obedience.*
 
-6. [**Part VI — The Divergence from Torah Observance**](parts/Part%20VI%20-%20The%20Divergence.md)  
+6. [**Part VI — The Divergence from Torah Observance**](parts/part-6-the-divergence-from-torah-observance.md)  
    *How persecution, philosophy, and politics redefined the faith in Greco-Roman terms.*
 
-7. [**Part VII — Re-Examining Disputed Texts**](parts/Part%20VII%20-%20Reexamining%20Disputed%20Texts.md)  
+7. [**Part VII — Re-Examining Disputed Texts**](parts/part-7-re-examining-disputed-texts.md)  
    *Acts 20, Romans 14, Colossians 2, Galatians 4, and other passages reconsidered.*
 
-8. [**Part VIII — The Restoration of the Apostolic Vision**](parts/Part%20VIII%20-%20Restoration%20of%20the%20Vision.md)  
+8. [**Part VIII — The Restoration of the Apostolic Vision**](parts/part-8-the-restoration-of-the-apostolic-vision.md)  
    *Recovering the Hebraic worldview and ethics of the apostolic community.*
 
-9. [**Part IX — Conclusion: Torah and Grace in Harmony**](parts/Part%20IX%20-%20Conclusion.md)  
+9. [**Part IX — Conclusion: Torah and Grace in Harmony**](parts/part-9-conclusion-torah-and-grace-in-harmony.md)  
    *The theological synthesis — law and grace, faith and obedience reconciled.*
 
 ---
