@@ -1,0 +1,42 @@
+title: "The Apostles and the Torah: Reconstructing the First-Century Church"
+description: "A 14-part historical and exegetical series by Michael Wordsmith demonstrating that Yeshua, the apostles, and Paul remained Torah-observant — harmonizing law and grace within first-century Judaism."
+url: "https://mikewordsmith.github.io"
+baseurl: "/apostles-and-the-torah"
+author: "Michael Wordsmith"
+
+theme: minima
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - LICENSE
+  - "*.json"
+  - "*.csv"
+  - "*.xlsx"
+  - "*.pdf"
+  - .gitignore
+  - .github/
+
+collections:
+  parts:
+    output: true
+    permalink: /parts/:path/
+  supplements:
+    output: true
+    permalink: /supplements/:path/
+
+permalink: /:path/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      lang: en
+      license: "CC BY 4.0"
+      publisher: "Michael Wordsmith"
