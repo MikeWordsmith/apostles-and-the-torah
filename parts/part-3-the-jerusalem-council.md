@@ -131,7 +131,7 @@ The Jerusalem Council therefore stands as a testament to continuity, not rupture
 ---
 
 ## 📖 Continue the Series
-> **Series overview & index:** *The Apostles and the Torah — Complete 9-Part Core + 5 Supplemental Technical Studies:* [Open the Series Home (Index & Abstract)]()
+> **Series overview & index:** *The Apostles and the Torah — Complete 9-Part Core + 5 Supplemental Technical Studies:* [Open the Series Home (Index & Abstract)](https://github.com/MikeWordsmith/apostles-and-the-torah/blob/main/index.md)
 <br>
 <strong>Core (9):</strong> 
 <a href="../parts/part-1-the-historical-premise.md">I</a> • 
