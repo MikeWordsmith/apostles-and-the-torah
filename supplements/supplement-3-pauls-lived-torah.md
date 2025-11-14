@@ -23,6 +23,7 @@ Technical Appendix to “The Apostles and the Torah: Reconstructing the First-Ce
 ---
 
 # Introduction
+![Answering the question: Did Jesus, the apostles, Paul, and the New Testament Church keep the Torah?](../assets/The%20apostles%20and%20the%20torah%20-%20Reconstructing%20the%20first%20century%20church.jpg)
 
 No figure is cited more often to defend a law-free, Sabbath-free version of Christianity than Paul.  
 And yet, read in context, no figure resists that role more than Paul.
