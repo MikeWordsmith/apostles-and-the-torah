@@ -38,6 +38,7 @@ Part IX: Conclusion: Torah and Grace in Harmony
 ---
 
 # VII. Re-Examining Disputed Texts
+![Answering the question: Did Jesus, the apostles, Paul, and the New Testament Church keep the Torah?](../assets/The%20apostles%20and%20the%20torah%20-%20Reconstructing%20the%20first%20century%20church.jpg)
 
 # 1. Method and Hermeneutic Principles
 The thesis that the apostles abolished Torah rests on a narrow cluster of verses interpreted through post-Jewish, Hellenistic frameworks. When examined within their first-century linguistic and halakhic milieu, those same texts reveal continuity, not contradiction.
@@ -195,14 +196,26 @@ Far from setting Torah aside, He exposes the inconsistency of certain Pharisaic 
 As N.T. Wright observes, “For Paul, the Law is not abolished; it is transformed into the life of the Spirit — the Torah written on the heart.” (30)
 
 ---
+<p align="center"><strong>Proof-Text Matrix – Abolition Claims Tested</strong></p>
 
-![Proof-Text Matrix — Do These Verses Abolish the Sabbath?](assets/supp_prooftext_matrix.png)  
-*Caption:* **Proof-Text Check: Do These Verses Abolish the Sabbath?** — A side-by-side summary showing that Matthew 5, Acts 15, Colossians 2, Galatians 4, Romans 14, and Hebrews 4, when read in context, do not teach abolition of Torah or a Sabbath-to-Sunday transfer; each is misused when cited to support a law-free, non-Sabbath Christianity.  
-<sub>Alt: Table listing Matt 5, Acts 15, Col 2, Gal 4, Rom 14, and Heb 4. For each, it contrasts a common abolitionist claim with the contextual reading: Jesus upholds Torah; Acts 15 rejects proselyte legalism; Col 2 opposes ascetic/syncretic judgment; Gal 4 warns against pagan/elemental bondage; Rom 14 addresses disputable devotions; Heb 4 affirms “sabbath-keeping remains.” Final column shows “No” for every verse regarding Sabbath transfer. Encodes that none of these texts, properly read, abolish the seventh-day Sabbath.</sub>
+<p align="center">
+  <img src="../assets/Proof-Text%20Matrix%20%E2%80%93%20Do%20These%20Verses%20Abolish%20the%20Sabbath.jpg"
+       alt="Table listing Matt 5, Acts 15, Col 2, Gal 4, Rom 14, and Heb 4. For each, it contrasts a common abolitionist claim with the contextual reading: Jesus upholds Torah; Acts 15 rejects proselyte legalism; Col 2 opposes ascetic/syncretic judgment; Gal 4 warns against pagan/elemental bondage; Rom 14 addresses disputable devotions; Heb 4 affirms “sabbath-keeping remains.” Final column shows “No” for every verse regarding Sabbath transfer. Encodes that none of these texts, properly read, abolish the seventh-day Sabbath."
+       width="800">
+</p>
 
-![Timeline — From Yeshua to the Post-Apostolic Sunday Shift](assets/supp_timeline.png)  
-*Caption:* **Timeline: From Yeshua to the Post-Apostolic Sunday Shift** — Visual summary showing Yeshua and the apostles consistently attending synagogue on the seventh-day Sabbath, observing the festivals, and treating Moses as authoritative throughout the first century, with Sunday prominence and anti-Sabbath attitudes appearing only later in post-apostolic, largely Gentile Christianity.  
-<sub>Alt: Horizontal timeline from c. 30 CE to the 4th century. It marks Yeshua’s Sabbath-keeping ministry, the Acts period of Temple, Sabbath, and feast observance, the Jerusalem Council affirming Moses read every Sabbath, the destruction of the Temple, early “Lord’s Day” references, and finally 2nd–4th century consolidation of Sunday. Emphasizes that the apostolic era is Torah-observant and seventh-day-Sabbath-based, while systematic Sunday replacement is a later development.</sub>
+<p align="center"><strong>Proof-Text Check: Do These Verses Abolish the Sabbath?</strong> — A side-by-side summary showing that Matthew 5, Acts 15, Colossians 2, Galatians 4, Romans 14, and Hebrews 4, when read in context, do not teach abolition of Torah or a Sabbath-to-Sunday transfer; each is misused when cited to support a law-free, non-Sabbath Christianity.</p>
+
+<p align="center"><strong>Apostolic Timeline — Sabbath vs. Sunday Shift</strong></p>
+
+<p align="center">
+  <img src="../assets/Apostolic%20Timeline%20%E2%80%93%20Sabbath%20vs%20Sunday%20Shift.png"
+       alt="Horizontal timeline from c. 30 CE to the 4th century. It marks Yeshua’s Sabbath-keeping ministry, the Acts period of Temple, Sabbath, and feast observance, the Jerusalem Council affirming Moses read every Sabbath, the destruction of the Temple, early “Lord’s Day” references, and finally 2nd–4th century consolidation of Sunday. Emphasizes that the apostolic era is Torah-observant and seventh-day-Sabbath-based, while systematic Sunday replacement is a later development."
+       width="900">
+</p>
+
+<p align="center"><strong>Timeline: From Yeshua to the Post-Apostolic Sunday Shift</strong> — Visual summary showing Yeshua and the apostles consistently attending synagogue on the seventh-day Sabbath, observing the festivals, and treating Moses as authoritative throughout the first century, with Sunday prominence and anti-Sabbath attitudes appearing only later in post-apostolic, largely Gentile Christianity.</p>
+
 
 ---
 
