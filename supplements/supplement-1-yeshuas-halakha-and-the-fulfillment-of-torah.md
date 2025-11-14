@@ -1,26 +1,3 @@
-<!--
----
-title: "Supplement I: Yeshua’s Halakha and the Fulfillment of Torah"
-series: "The Apostles and the Torah: Reconstructing the First-Century Church"
-supplement: 1
-author: "Michael Wordsmith"
-date: 2025-11-08
-source: "https://medium.com/@MichaelWordsmith/supplemental-study-i-yeshuas-halakha-and-the-fulfillment-of-torah-60b324980be0"
-license: "CC BY 4.0"
-summary: "Shows that “I did not come to abolish but to fulfill” (Matt 5:17–19) is halakhic language for upholding and correctly interpreting Torah, not terminating it, and that Yeshua’s Sabbath controversies presuppose the continuing sanctity of the seventh day."
-tags: [Matthew 5, Halakha, Torah, Sabbath, Yeshua, Early Church, Fulfillment]
-published: true
-hide_front_matter: true
----
-
-<style>
-/* hides Jekyll-rendered front matter section in most themes */
-.page-header, .post-title, .post-meta, .page-title, header h1 {
-    display: none !important;
-}
-</style>
--->
-
 # Supplemental Study I: Yeshua’s Halakha and the Fulfillment of Torah
 
 Technical Appendix to “The Apostles and the Torah: Reconstructing the First-Century Church”
