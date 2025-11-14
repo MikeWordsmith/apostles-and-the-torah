@@ -36,6 +36,8 @@ Part IX: *Conclusion — Torah and Grace in Harmony*
 
 # IV. Halakhic Disputes, Not Abolition
 
+![Answering the question: Did Jesus, the apostles, Paul, and the New Testament Church keep the Torah?](../assets/The%20apostles%20and%20the%20torah%20-%20Reconstructing%20the%20first%20century%20church.jpg)
+
 ## 1. Defining *Halakhah* in the Apostolic Era
 *Halakhah* — literally “the way of walking” — designated practical rulings on how to obey *Torah* in specific situations. In the first century, multiple *halakhic* traditions coexisted: Pharisaic, Sadducean, Essene, Zealot, and nascent rabbinic. The disputes recorded in the Gospels mirror this living legal pluralism. *Yeshua* and the apostles operated inside this spectrum, offering their own interpretations rather than rejecting the system itself (1).
 
