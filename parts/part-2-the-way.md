@@ -111,8 +111,34 @@ As Hegg summarizes, “The earliest followers of *Yeshua* saw themselves as a re
 
 ---
 
-## 📖 Continue the Series
-> **Series overview & index:** *The Apostles and the Torah — Complete 9-Part Core + 5 Supplemental Technical Studies:* [Open the Series Home (Index & Abstract)]()
+<div align="center" style="color:gray;">
 
-**Core (9):** Part I • II • III • IV • V • VI • VII • VIII • IX  
-**Supplements (5):** I • II • III • IV • V
+📖 <strong>Return to Series Index:</strong><br>
+<a href="../index.md" style="color:gray;">The Apostles and the Torah — Series Index &amp; Abstract</a>
+
+<br><br>
+
+<strong>Core (9):</strong> 
+<a href="../parts/Part%20I%20-%20The%20Historical%20Premise.md" style="color:gray;">I</a> • 
+<a href="../parts/Part%20II%20-%20The%20Way.md" style="color:gray;">II</a> • 
+<a href="../parts/Part%20III%20-%20The%20Jerusalem%20Community.md" style="color:gray;">III</a> • 
+<a href="../parts/Part%20IV%20-%20Halakhic%20Disputes.md" style="color:gray;">IV</a> • 
+<span style="color:darkgray;">V</span> • 
+<a href="../parts/Part%20VI%20-%20The%20Divergence.md" style="color:gray;">VI</a> • 
+<a href="../parts/Part%20VII%20-%20Reexamining%20Disputed%20Texts.md" style="color:gray;">VII</a> • 
+<a href="../parts/Part%20VIII%20-%20Restoration%20of%20the%20Vision.md" style="color:gray;">VIII</a> • 
+<a href="../parts/Part%20IX%20-%20Conclusion.md" style="color:gray;">IX</a>  
+
+<br>
+
+<strong>Supplements (5):</strong> 
+<a href="../supplements/Supplement%20I%20-%20Yeshua%27s%20Halakha.md" style="color:gray;">I</a> • 
+<a href="../supplements/Supplement%20II%20-%20Acts%20Behavioral%20Data.md" style="color:gray;">II</a> • 
+<a href="../supplements/Supplement%20III%20-%20Pauls%20Lived%20Torah.md" style="color:gray;">III</a> • 
+<a href="../supplements/Supplement%20IV%20-%20Calendar%20Misreadings.md" style="color:gray;">IV</a> • 
+<a href="../supplements/Supplement%20V%20-%20New%20Covenant.md" style="color:gray;">V</a>
+
+</div>
+
+---
+
