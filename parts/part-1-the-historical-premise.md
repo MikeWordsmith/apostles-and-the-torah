@@ -24,16 +24,16 @@ tags: [Historical Jesus, Apostles, Torah, Early Church, Judaism, Halakhah, Conte
 
 # 📖 The Apostles and the Torah: Series Index
 
-## Core (9): ##  
-**Part I** — [*The Historical Premise*]([../part-1-the-historical-premise.md](https://github.com/MikeWordsmith/apostles-and-the-torah/blob/main/parts/part-1-the-historical-premise.md))  
-**Part II** — [*The Way*](../parts/Part%20II%20-%20The%20Way.md)  
-**Part III** — [*The Jerusalem Council*](../parts/Part%20III%20-%20The%20Jerusalem%20Community.md)  
-**Part IV** — [*Halakhic Disputes, Not Abolition*](../parts/Part%20IV%20-%20Halakhic%20Disputes.md)  
-**Part V** — [*The New Covenant and the Torah Written on the Heart*](../parts/Part%20V%20-%20The%20New%20Covenant.md)  
-**Part VI** — [*The Divergence from Torah Observance*](../parts/Part%20VI%20-%20The%20Divergence.md)  
-**Part VII** — [*Re-Examining Disputed Texts*](../parts/Part%20VII%20-%20Reexamining%20Disputed%20Texts.md)  
-**Part VIII** — [*The Restoration of the Apostolic Vision*](../parts/Part%20VIII%20-%20Restoration%20of%20the%20Vision.md)  
-**Part IX** — [*Conclusion — Torah and Grace in Harmony*](../parts/Part%20IX%20-%20Conclusion.md)
+## Core (9): ##
+**Part I** — [*The Historical Premise*](part-1-the-historical-premise.md)  
+**Part II** — [*The Way*](part-2-the-way.md)  
+**Part III** — [*The Jerusalem Council*](part-3-the-jerusalem-council.md)  
+**Part IV** — [*Halakhic Disputes, Not Abolition*](part-4-halakhic-disputes-not-abolition.md)  
+**Part V** — [*The New Covenant and the Torah Written on the Heart*](part-5-the-new-covenant-and-the-torah-written-on-the-heart.md)  
+**Part VI** — [*The Divergence from Torah Observance*](part-6-the-divergence-from-torah-observance.md)  
+**Part VII** — [*Re-Examining Disputed Texts*](part-7-re-examining-disputed-texts.md)  
+**Part VIII** — [*The Restoration of the Apostolic Vision*](part-8-the-restoration-of-the-apostolic-vision.md)  
+**Part IX** — [*Conclusion — Torah and Grace in Harmony*](part-9-conclusion-torah-and-grace-in-harmony.md)
 
 <div align="left">
 <strong>Supplements (5):</strong> <a href="../supplements/Supplement%20I%20-%20Yeshua%27s%20Halakha.md">I</a> • <a href="../supplements/Supplement%20II%20-%20Acts%20Behavioral%20Data.md">II</a> • <a href="../supplements/Supplement%20III%20-%20Pauls%20Lived%20Torah.md">III</a> • <a href="../supplements/Supplement%20IV%20-%20Calendar%20Misreadings.md">IV</a> • <a href="../supplements/Supplement%20V%20-%20New%20Covenant.md">V</a>
