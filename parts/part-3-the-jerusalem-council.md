@@ -99,7 +99,7 @@ Later Christian interpretation misread the council as a repeal of the Mosaic cod
 ## 9. The Council as Halakhic Precedent
 Viewed juridically, Acts 15 represents the apostolic court’s authoritative precedent. Its format — debate, witness testimony, scriptural proof, and final decree — matches rabbinic procedure in the Sanhedrin. The use of Scripture (Amos 9:11–12) exemplifies Jewish hermeneutics: the inclusion of the nations fulfills prophetic expectation, not abolishes Israel’s covenant obligations. James’s statement “we should not trouble those who turn to God” implies that Torah is a privilege to be embraced, not a burden to be cast off.
 
-> For a consolidated overview of Acts as behavioral evidence — Temple attendance, seventh-day Sabbath, and the festivals after the resurrection — see **Supplemental Study II: Acts as Behavioral Data.**
+> For a consolidated overview of Acts as behavioral evidence — Temple attendance, seventh-day Sabbath, and the festivals after the resurrection — see [**Supplemental Study II: Acts as Behavioral Data**](https://mikewordsmith.github.io/apostles-and-the-torah/supplements/supplement-2-acts-as-behavioral-data-temple-synagogue-and-festivals-after-the-resurrection/).
 
 ## 10. Summary of Section III
 - The Jerusalem Council deliberated Gentile entry into Israel’s covenant, not abolition of Torah.  
