@@ -25,7 +25,7 @@ tags: [Historical Jesus, Apostles, Torah, Early Church, Judaism, Halakhah, Conte
 # 📖 The Apostles and the Torah: Series Index
 
 ## Core (9): ##  
-**Part I** — [*The Historical Premise*](../part-1-the-historical-premise.md)  
+**Part I** — [*The Historical Premise*]([../part-1-the-historical-premise.md](https://github.com/MikeWordsmith/apostles-and-the-torah/blob/main/parts/part-1-the-historical-premise.md))  
 **Part II** — [*The Way*](../parts/Part%20II%20-%20The%20Way.md)  
 **Part III** — [*The Jerusalem Council*](../parts/Part%20III%20-%20The%20Jerusalem%20Community.md)  
 **Part IV** — [*Halakhic Disputes, Not Abolition*](../parts/Part%20IV%20-%20Halakhic%20Disputes.md)  
