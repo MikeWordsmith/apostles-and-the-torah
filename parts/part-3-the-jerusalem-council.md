@@ -1,16 +1,3 @@
-<!--
----
-title: "Part III: The Jerusalem Council"
-series: "The Apostles and the Torah: Reconstructing the First-Century Church"
-part: 3
-author: "Michael Wordsmith"
-date: 2025-11-05
-source: "https://medium.com/@MichaelWordsmith/the-apostles-and-the-torah-reconstructing-the-first-century-church-part-iii-the-jerusalem-6f65063a6436"
-license: "CC BY 4.0"
-summary: "Examines the deliberations and halakhic logic of the Jerusalem Council in Acts 15, demonstrating that its ruling affirmed Torah continuity for Gentile inclusion rather than abrogation."
-tags: [Apostles, Torah, Jerusalem Council, Halakhah, Early Church, Judaism, Acts 15]
----
--->
 # Part III: The Jerusalem Council
 > **Editor’s Note:**  
 > This article is Part III of the complete series (9 main parts + 5 supplemental studies) titled *“The Apostles and the Torah: Reconstructing the First-Century Church.”*  
