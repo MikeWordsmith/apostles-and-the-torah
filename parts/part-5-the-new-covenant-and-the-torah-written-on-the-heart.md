@@ -1,17 +1,3 @@
-<!--
----
-title: "Part V: The New Covenant and the Torah Written on the Heart"
-series: "The Apostles and the Torah: Reconstructing the First-Century Church"
-part: 5
-author: "Michael Wordsmith"
-date: 2025-11-06
-source: "https://medium.com/@MichaelWordsmith/the-apostles-and-the-torah-reconstructing-the-first-century-church-part-v-the-new-covenant-and-0cf63f0cfae0"
-license: "CC BY 4.0"
-summary: "Examines the apostolic interpretation of the New Covenant as the Torah internalized by the Spirit—showing continuity, not contrast, between grace and obedience."
-tags: [New Covenant, Torah, Apostles, Jeremiah 31, Hebrews, Paul, Grace, Yeshua]
----
--->
-
 # Part V: The New Covenant and the Torah Written on the Heart
 > **Editor’s Note:**  
 > This article is Part V of the complete series (9 main parts + 5 supplemental studies) titled *“The Apostles and the Torah: Reconstructing the First-Century Church.”*  
