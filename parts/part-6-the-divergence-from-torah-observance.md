@@ -38,6 +38,7 @@ Part IX: Conclusion: Torah and Grace in Harmony
 ---
 
 # VI. The Divergence from Torah Observance
+![Answering the question: Did Jesus, the apostles, Paul, and the New Testament Church keep the Torah?](../assets/The%20apostles%20and%20the%20torah%20-%20Reconstructing%20the%20first%20century%20church.jpg)
 
 ## 1. Historical Turning Point
 The earliest followers of Yeshua continued to live as Jews loyal to the Torah. The separation between Judaism and the emerging Gentile church was gradual, not immediate. The first decisive rupture came not from theology but from politics and survival. After the destruction of the Temple in 70 CE and especially following the Bar Kokhba Revolt (132–135 CE), Roman authorities outlawed Jewish practices such as Sabbath observance and circumcision. Communities that could plausibly distance themselves from “Jewish customs” gained a political advantage (1).
@@ -97,9 +98,14 @@ The “parting of the ways” was thus a tragedy of history, not the intention o
 
 ---
 
-![Proof-Text Matrix — Do These Verses Abolish the Sabbath?](assets/supp_prooftext_matrix.png)  
-*Caption:* **Proof-Text Check: Do These Verses Abolish the Sabbath?** — A side-by-side summary showing that Matthew 5, Acts 15, Colossians 2, Galatians 4, Romans 14, and Hebrews 4, when read in context, do not teach abolition of Torah or a Sabbath-to-Sunday transfer; each is misused when cited to support a law-free, non-Sabbath Christianity.  
-<sub>Alt: Table listing Matt 5, Acts 15, Col 2, Gal 4, Rom 14, and Heb 4. For each, it contrasts a common abolitionist claim with the contextual reading: Jesus upholds Torah; Acts 15 rejects proselyte legalism; Col 2 opposes ascetic/syncretic judgment; Gal 4 warns against pagan/elemental bondage; Rom 14 addresses disputable devotions; Heb 4 affirms “sabbath-keeping remains.” Final column shows “No” for every verse regarding Sabbath transfer. Encodes that none of these texts, properly read, abolish the seventh-day Sabbath.</sub>
+<p align="center">
+  <img src="../assets/Proof-Text%20Matrix%20%E2%80%93%20Do%20These%20Verses%20Abolish%20the%20Sabbath.jpg"
+       alt="Table listing Matt 5, Acts 15, Col 2, Gal 4, Rom 14, and Heb 4. For each, it contrasts a common abolitionist claim with the contextual reading: Jesus upholds Torah; Acts 15 rejects proselyte legalism; Col 2 opposes ascetic/syncretic judgment; Gal 4 warns against pagan/elemental bondage; Rom 14 addresses disputable devotions; Heb 4 affirms “sabbath-keeping remains.” Final column shows “No” for every verse regarding Sabbath transfer. Encodes that none of these texts, properly read, abolish the seventh-day Sabbath."
+       width="800">
+</p>
+
+<p align="center"><strong>Proof-Text Check: Do These Verses Abolish the Sabbath?</strong> — A side-by-side summary showing that Matthew 5, Acts 15, Colossians 2, Galatians 4, Romans 14, and Hebrews 4, when read in context, do not teach abolition of Torah or a Sabbath-to-Sunday transfer; each is misused when cited to support a law-free, non-Sabbath Christianity.</p>
+
 
 ---
 
