@@ -1,25 +1,3 @@
-<!--
----
-title: "Supplement III: Paul’s Lived Torah — Resolving the Paul Problem"
-series: "The Apostles and the Torah: Reconstructing the First-Century Church"
-supplement: 3
-author: "Michael Wordsmith"
-date: 2025-11-09
-source: "https://medium.com/@MichaelWordsmith/supplemental-study-iii-pauls-lived-torah-3db7de77e16c"
-license: "CC BY 4.0"
-summary: "Aligns Paul’s letters with his recorded actions in Acts 18, 21, 24 to show that Paul remained Torah-faithful in Messiah — rejecting proselyte legalism and boundary-marking 'works of law,' but not Torah itself."
-tags: [Paul, Torah, Law, Acts, Grace, Apostles, Early Church, Halakha]
-published: true
-hide_front_matter: true
----
-
-<style>
-.page-header, .post-title, .post-meta, .page-title, header h1 {
-    display: none !important;
-}
-</style>
--->
-
 # Supplemental Study III: Paul’s Lived Torah — Resolving the Paul Problem from Within Acts and His Letters
 
 Technical Appendix to “The Apostles and the Torah: Reconstructing the First-Century Church”
