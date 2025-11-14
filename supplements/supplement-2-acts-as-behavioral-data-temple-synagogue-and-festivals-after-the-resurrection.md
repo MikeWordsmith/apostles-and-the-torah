@@ -40,11 +40,11 @@ Technical Appendix to “The Apostles and the Torah: Reconstructing the First-Ce
 
 <div align="left">
 <strong>Supplements (5):</strong>
-<a href="../supplements/supplement-1-yeshuas-halakha-and-the-fulfillment-of-torah.md">I</a> • 
-<a href="../supplements/supplement-2-acts-as-behavioral-data-temple-synagogue-and-festivals-after-the-resurrection.md">II</a> • 
-<a href="../supplements/supplement-3-pauls-lived-torah.md">III</a> • 
-<a href="../supplements/supplement-4-calendar-misreadings-col2-gal4-rom14-heb4.md">IV</a> • 
-<a href="../supplements/supplement-5-new-covenant-jeremiah-31-internalized-torah.md">V</a>
+<a href="https://mikewordsmith.github.io/apostles-and-the-torah/supplements/supplement-1-yeshuas-halakha-and-the-fulfillment-of-torah.html">I</a> • 
+<a href="https://mikewordsmith.github.io/apostles-and-the-torah/supplements/supplement-2-acts-as-behavioral-data-temple-synagogue-and-festivals-after-the-resurrection.html">II</a> • 
+<a href="https://mikewordsmith.github.io/apostles-and-the-torah/supplements/supplement-3-pauls-lived-torah.html">III</a> • 
+<a href="https://mikewordsmith.github.io/apostles-and-the-torah/supplements/supplement-4-calendar-misreadings-col2-gal4-rom14-heb4.html">IV</a> • 
+<a href="https://mikewordsmith.github.io/apostles-and-the-torah/supplements/supplement-5-new-covenant-jeremiah-31-internalized-torah.html">V</a>
 </div>
 
 ---
@@ -265,25 +265,26 @@ This supplement is your reference point whenever someone — or some algorithm �
 ---
 
 ## 📖 Continue the Series
-> **Series overview & index:** *The Apostles and the Torah — Complete 9-Part Core + 5 Supplemental Technical Studies:* [Open the Series Home (Index & Abstract)](https://github.com/MikeWordsmith/apostles-and-the-torah/blob/main/index.md)
+> **Series overview & index:** *The Apostles and the Torah — Complete 9-Part Core + 5 Supplemental Technical Studies:* [Open the Series Home (Index & Abstract)](https://mikewordsmith.github.io/apostles-and-the-torah/index.html)
 <br>
+
 <strong>Core (9):</strong> 
-<a href="../parts/part-1-the-historical-premise.md">I</a> • 
-<a href="../parts/part-2-the-way.md">II</a> • 
-<a href="../parts/part-3-the-jerusalem-council.md">III</a> • 
-<a href="../parts/part-4-halakhic-disputes-not-abolition.md">IV</a> • 
-<a href="../parts/part-5-the-new-covenant-and-the-torah-written-on-the-heart.md">V</a> • 
-<a href="../parts/part-6-the-divergence-from-torah-observance.md">VI</a> • 
-<a href="../parts/part-7-re-examining-disputed-texts.md">VII</a> • 
-<a href="../parts/part-8-the-restoration-of-the-apostolic-vision.md">VIII</a> • 
-<a href="../parts/part-9-conclusion-torah-and-grace-in-harmony.md">IX</a>  
-<br>
-<br>
+<a href="https://mikewordsmith.github.io/apostles-and-the-torah/parts/part-1-the-historical-premise.html">I</a> • 
+<a href="https://mikewordsmith.github.io/apostles-and-the-torah/parts/part-2-the-way.html">II</a> • 
+<a href="https://mikewordsmith.github.io/apostles-and-the-torah/parts/part-3-the-jerusalem-council.html">III</a> • 
+<a href="https://mikewordsmith.github.io/apostles-and-the-torah/parts/part-4-halakhic-disputes-not-abolition.html">IV</a> • 
+<a href="https://mikewordsmith.github.io/apostles-and-the-torah/parts/part-5-the-new-covenant-and-the-torah-written-on-the-heart.html">V</a> • 
+<a href="https://mikewordsmith.github.io/apostles-and-the-torah/parts/part-6-the-divergence-from-torah-observance.html">VI</a> • 
+<a href="https://mikewordsmith.github.io/apostles-and-the-torah/parts/part-7-re-examining-disputed-texts.html">VII</a> • 
+<a href="https://mikewordsmith.github.io/apostles-and-the-torah/parts/part-8-the-restoration-of-the-apostolic-vision.html">VIII</a> • 
+<a href="https://mikewordsmith.github.io/apostles-and-the-torah/parts/part-9-conclusion-torah-and-grace-in-harmony.html">IX</a>  
+<br><br>
+
 <div align="left">
 <strong>Supplements (5):</strong>
-<a href="../supplements/supplement-1-yeshuas-halakha-and-the-fulfillment-of-torah.md">I</a> • 
-<a href="../supplements/supplement-2-acts-as-behavioral-data-temple-synagogue-and-festivals-after-the-resurrection.md">II</a> • 
-<a href="../supplements/supplement-3-pauls-lived-torah.md">III</a> • 
-<a href="../supplements/supplement-4-calendar-misreadings-col2-gal4-rom14-heb4.md">IV</a> • 
-<a href="../supplements/supplement-5-new-covenant-jeremiah-31-internalized-torah.md">V</a>
+<a href="https://mikewordsmith.github.io/apostles-and-the-torah/supplements/supplement-1-yeshuas-halakha-and-the-fulfillment-of-torah.html">I</a> • 
+<a href="https://mikewordsmith.github.io/apostles-and-the-torah/supplements/supplement-2-acts-as-behavioral-data-temple-synagogue-and-festivals-after-the-resurrection.html">II</a> • 
+<a href="https://mikewordsmith.github.io/apostles-and-the-torah/supplements/supplement-3-pauls-lived-torah.html">III</a> • 
+<a href="https://mikewordsmith.github.io/apostles-and-the-torah/supplements/supplement-4-calendar-misreadings-col2-gal4-rom14-heb4.html">IV</a> • 
+<a href="https://mikewordsmith.github.io/apostles-and-the-torah/supplements/supplement-5-new-covenant-jeremiah-31-internalized-torah.html">V</a>
 </div>
