@@ -116,7 +116,19 @@ The evidence from language, culture, and Scripture confirms that the first-centu
 ## 📖 Continue the Series
 > **Series overview & index:** *The Apostles and the Torah — Complete 9-Part Core + 5 Supplemental Technical Studies:* [Open the Series Home (Index & Abstract)]()
 
-**Core (9):** Part I • II • III • IV • V • VI • VII • VIII • IX  
+<br><br>
+<strong>Core (9):</strong> 
+<a href="../parts/part-1-the-historical-premise.md">I</a> • 
+<a href="../parts/part-2-the-way.md">II</a> • 
+<a href="../parts/part-3-the-jerusalem-council.md">III</a> • 
+<a href="../parts/part-4-halakhic-disputes-not-abolition.md">IV</a> • 
+<a href="../parts/part-5-the-new-covenant-and-the-torah-written-on-the-heart.md">V</a> • 
+<a href="../parts/part-6-the-divergence-from-torah-observance.md">VI</a> • 
+<a href="../parts/part-7-re-examining-disputed-texts.md">VII</a> • 
+<a href="../parts/part-8-the-restoration-of-the-apostolic-vision.md">VIII</a> • 
+<a href="../parts/part-9-conclusion-torah-and-grace-in-harmony.md">IX</a>  
+<br>
+
 **Supplements (5):** I • II • III • IV • V  
 
 
