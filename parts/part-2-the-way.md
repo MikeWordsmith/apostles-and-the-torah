@@ -1,16 +1,3 @@
-<!--
----
-title: "Part II: The Way"
-series: "The Apostles and the Torah: Reconstructing the First-Century Church"
-part: 2
-author: "Michael Wordsmith"
-date: 2025-11-05
-source: "https://medium.com/@MichaelWordsmith/the-apostles-and-the-torah-reconstructing-the-first-century-church-part-ii-the-way-0a2968c8c8c8"
-license: "CC BY 4.0"
-summary: "Traces the earliest apostolic movement known as The Way, showing that it remained a Torah-observant sect within Judaism and viewed Yeshua as the definitive halakhic authority rather than the abrogator of the Law."
-tags: [Apostles, Torah, Judaism, Yeshua, Halakhah, Early Church, The Way]
----
--->
 # Part II: The Way
 > **Editor’s Note:**  
 > This article is Part II of the complete series (9 main parts + 5 supplemental studies) titled *“The Apostles and the Torah: Reconstructing the First-Century Church.”*  
