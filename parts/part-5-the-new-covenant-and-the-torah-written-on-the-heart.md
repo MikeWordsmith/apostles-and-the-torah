@@ -36,6 +36,7 @@ Part IX: *Conclusion — Torah and Grace in Harmony*
 ---
 
 # V. The New Covenant and the Torah Written on the Heart
+![Answering the question: Did Jesus, the apostles, Paul, and the New Testament Church keep the Torah?](../assets/The%20apostles%20and%20the%20torah%20-%20Reconstructing%20the%20first%20century%20church.jpg)
 
 ## 1. Jeremiah’s Prophecy and Apostolic Fulfillment
 The phrase *berit chadashah* (“New Covenant”) originates in Jeremiah 31:31–33, foreseeing a covenant renewal in which God will “put My Torah within them and write it on their hearts.” What is “new” is not the Law itself but its internalization. The covenant formula — “I will be their God and they shall be My people” — remains identical to Sinai (1).
@@ -47,8 +48,14 @@ Christian theology often reads “New Covenant” as discontinuity — a replace
 
 Both Jeremiah and Paul describe the same transformation — *Torah* internalized by divine empowerment. Grace and obedience unite: grace enables what flesh could not. As Hegg observes, “The New Covenant does not annul Torah but inscribes it more deeply.” (2)
 
-![Vertical flowchart beginning with Jeremiah 31’s promise to write God’s Torah on Israel’s heart; moving through Hebrews 8–10 (better priesthood and sacrifice, same “laws” on hearts), Ephesians 2 (hostility and dividing wall removed, not God’s will), Romans 11 (Gentiles grafted into Israel’s olive tree), James and Revelation (commandments of God plus faith in Yeshua), and Zech 14 (nations honoring YHWH, feast imagery). Concludes: the New Covenant is Torah internalized and expanded to the nations, not Torah abolished.](https://github.com/MikeWordsmith/apostles-and-the-torah/blob/main/assets/New%20Covenant%20Flowchart%20–%20Torah%20Internalized%20Not%20Erased.jpg?raw=true)  
-*Figure 1 — New Covenant Flow: From Jeremiah 31 to Revelation — the New Covenant internalizes God’s Torah, removes hostility, and upholds divine commandments rather than abolishing them.*
+<p align="center">
+  <img src="../assets/New%20Covenant%20Flowchart%20%E2%80%93%20Torah%20Internalized%20Not%20Erased.jpg" 
+       alt="Vertical flowchart beginning with Jeremiah 31's promise to write God's Torah on Israel's heart; moving through Hebrews 8–10 (better priesthood and sacrifice, same 'laws' on hearts), Ephesians 2 (hostility and dividing wall removed, not God's will), Romans 11 (Gentiles grafted into Israel's olive tree), James and Revelation (commandments of God plus faith in Yeshua), and Zech 14 (nations honoring YHWH, feast imagery). Concludes: the New Covenant is Torah internalized and expanded to the nations," 
+       width="800">
+</p>
+
+<p align="center"><strong>New Covenant Flow: From Jeremiah 31 to Revelation</strong> — Flowchart tracing Jeremiah 31, Hebrews 8–10, Ephesians 2, Romans 11, James, Revelation, and Zechariah 14 to show a consistent pattern: the New Covenant internalizes God’s Torah, removes Jew–Gentile hostility, and upholds God’s commandments, rather than erasing Torah or the seventh-day Sabbath.</p>
+
 
 
 ## 3. The Torah of the Spirit
