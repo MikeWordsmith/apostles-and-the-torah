@@ -1,16 +1,3 @@
-<!--
----
-title: "Part VI: The Divergence from Torah Observance"
-series: "The Apostles and the Torah: Reconstructing the First-Century Church"
-part: 6
-author: "Michael Wordsmith"
-date: 2025-11-07
-source: "https://medium.com/@MichaelWordsmith/the-apostles-and-the-torah-reconstructing-the-first-century-church-part-vi-the-divergence-from-3c8479883609"
-license: "CC BY 4.0"
-summary: "Traces how post-70 CE pressures, Hellenistic philosophy, Roman policy, and anti-Jewish currents drove a divergence from the apostles’ Torah-observant pattern, culminating in Sunday centrality and calendar reforms not taught by the apostles."
-tags: [Apostles, Torah, Early Church, Sabbath, Sunday, Hellenistic Philosophy, Roman Empire, Calendar, Marcion, Nicaea]
----
--->
 # Part VI: The Divergence from Torah Observance
 
 > **Editor’s Note:**  
