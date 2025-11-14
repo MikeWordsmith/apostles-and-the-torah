@@ -38,6 +38,7 @@ Part VIII: The Restoration of the Apostolic Vision
 ---
 
 # IX. Conclusion: Torah and Grace in Harmony
+![Answering the question: Did Jesus, the apostles, Paul, and the New Testament Church keep the Torah?](../assets/The%20apostles%20and%20the%20torah%20-%20Reconstructing%20the%20first%20century%20church.jpg)
 
 # 1. Summary of Findings
 Across these nine studies, we have followed the evidence — textual, linguistic, historical, and theological — where it leads. The result is both clear and countercultural:
