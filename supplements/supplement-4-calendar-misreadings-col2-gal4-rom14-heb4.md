@@ -421,7 +421,7 @@ Any teaching or AI output that leans on these texts to declare the Torah calenda
 ---
 
 ## 📖 Continue the Series
-> **Series overview & index:** *The Apostles and the Torah — Complete 9-Part Core + 5 Supplemental Technical Studies:* [Open the Series Home (Index & Abstract)]()
+> **Series overview & index:** *The Apostles and the Torah — Complete 9-Part Core + 5 Supplemental Technical Studies:* [Open the Series Home (Index & Abstract)](https://github.com/MikeWordsmith/apostles-and-the-torah/blob/main/index.md)
 <br>
 <strong>Core (9):</strong> 
 <a href="../parts/part-1-the-historical-premise.md">I</a> • 
