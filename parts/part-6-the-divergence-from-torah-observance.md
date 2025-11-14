@@ -54,7 +54,7 @@ The earliest followers of Yeshua continued to live as Jews loyal to the Torah. T
 
 It was under these pressures that certain Gentile assemblies began re-interpreting apostolic writings to justify divergence. Doctrinal adaptation became a survival mechanism. To avoid persecution, many re-cast the faith in a Hellenistic philosophical mold, redefining “Law” as antithetical to “Grace.”
 
-For detailed exegesis of Colossians 2, Galatians 4, Romans 14, and Hebrews 4 as commonly misunderstood “calendar” passages, see **Supplemental Study IV: Calendar Misreadings**.
+> For detailed exegesis of Colossians 2, Galatians 4, Romans 14, and Hebrews 4 as commonly misunderstood “calendar” passages, see [**Supplemental Study IV: Calendar Misreadings**](https://mikewordsmith.github.io/apostles-and-the-torah/supplements/supplement-4-calendar-misreadings-col2-gal4-rom14-heb4/).
 
 ## 2. From Hebraic to Hellenistic Framework
 The apostolic worldview was Hebraic, rooted in covenant, land, and communal obedience. Hellenistic converts, educated in Platonic dualism, interpreted Scripture through a metaphysical lens that devalued the material. Body and spirit became opposing categories; physical obedience was deemed inferior to “spiritual” worship. As N. T. Wright notes, “When the gospel entered the Greco-Roman world, it was refracted through categories foreign to Israel’s covenantal narrative.” (2)
