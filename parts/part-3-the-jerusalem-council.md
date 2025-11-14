@@ -36,6 +36,8 @@ Part IX: *Conclusion — Torah and Grace in Harmony*
 
 # III. The Jerusalem Council
 
+![Answering the question: Did Jesus, the apostles, Paul, and the New Testament Church keep the Torah?](../assets/The%20apostles%20and%20the%20torah%20-%20Reconstructing%20the%20first%20century%20church.jpg)
+
 ## 1. Setting and Purpose
 Acts 15 records the earliest formal deliberation of the apostolic leadership. Its agenda was not whether *Torah* remained valid but how Gentile converts were to enter Israel’s covenant community. Certain Judean emissaries insisted on full proselyte conversion — circumcision and complete ritual conformity — as prerequisites for salvation. Paul and Barnabas opposed this, arguing that Gentiles were saved through faith in Messiah alone.
 
