@@ -81,19 +81,19 @@ It concludes that:
 
 ### 📑 Integral Supplemental Studies
 
-1. [**Supplement I — Yeshua’s Halakha and the Fulfillment of Torah**](supplements/Supplement%20I%20-%20Yeshua%27s%20Halakha.md)  
+1. [**Supplement I — Yeshua’s Halakha and the Fulfillment of Torah**](supplements/supplement-1-yeshuas-halakha-and-the-fulfillment-of-torah.md)  
    *Matthew 5 and Sabbath controversies: Yeshua upholds Torah through true interpretation.*
 
-2. [**Supplement II — Acts as Behavioral Data**](supplements/Supplement%20II%20-%20Acts%20Behavioral%20Data.md)  
+2. [**Supplement II — Acts as Behavioral Data**](supplements/supplement-2-acts-as-behavioral-data-temple-synagogue-and-festivals-after-the-resurrection.md)  
    *Temple, synagogue, and festivals after the resurrection as empirical evidence.*
 
-3. [**Supplement III — Paul’s Lived Torah**](supplements/Supplement%20III%20-%20Pauls%20Lived%20Torah.md)  
+3. [**Supplement III — Paul’s Lived Torah**](supplements/supplement-3-pauls-lived-torah.md)  
    *Reconciling Paul’s letters with his Torah-faithful conduct.*
 
-4. [**Supplement IV — Calendar Misreadings**](supplements/Supplement%20IV%20-%20Calendar%20Misreadings.md)  
+4. [**Supplement IV — Calendar Misreadings**](supplements/supplement-4-calendar-misreadings-col2-gal4-rom14-heb4.md)  
    *Col 2, Gal 4, Rom 14, Heb 4 — texts misused to claim abolition of Torah’s appointed times.*
 
-5. [**Supplement V — The New Covenant & Jeremiah 31**](supplements/Supplement%20V%20-%20New%20Covenant.md)  
+5. [**Supplement V — The New Covenant & Jeremiah 31**](supplements/supplement-5-new-covenant-jeremiah-31-internalized-torah.md)  
    *Internalized Torah, not erased Torah — the covenant written on the heart.*
 
 ---
