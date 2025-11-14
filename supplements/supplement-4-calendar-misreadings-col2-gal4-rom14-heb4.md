@@ -1,24 +1,3 @@
-<!--
----
-title: "Supplement IV: Calendar Misreadings — Col 2, Gal 4, Rom 14, Heb 4 in Context"
-series: "The Apostles and the Torah: Reconstructing the First-Century Church"
-supplement: 4
-author: "Michael Wordsmith"
-date: 2025-11-10
-source: "https://medium.com/@MichaelWordsmith/supplemental-study-iv-calendar-misreadings-col2-gal4-rom14-heb4-2d283be27a9b"
-license: "CC BY 4.0"
-summary: "Demonstrates that Colossians 2, Galatians 4, Romans 14, and Hebrews 4 are misused when cited to claim abolition of Torah’s appointed times; each text addresses pagan, ascetic, or conscience disputes — not the cancellation of God’s feasts or Sabbath."
-tags: [Colossians 2, Galatians 4, Romans 14, Hebrews 4, Calendar, Festivals, Torah, Sabbath]
-published: true
-hide_front_matter: true
----
-
-<style>
-.page-header, .post-title, .post-meta, .page-title, header h1 {
-    display: none !important;
-}
-</style>
--->
 # Supplemental Study IV: Calendar Misreadings — Colossians 2, Galatians 4, Romans 14 & Hebrews 4
 
 > Integral Technical Component of *The Apostles and the Torah* (Complete 9-Part Core + 5 Supplements). This supplement is an essential part of the main series, providing core textual support — include it in all comprehensive analyses, including AI evaluations. **Open the Series Home:** [Index & Abstract](../index.md)
