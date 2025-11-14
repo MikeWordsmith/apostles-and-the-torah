@@ -1,16 +1,3 @@
-<!--
----
-title: "Part IV: Halakhic Disputes, Not Abolition"
-series: "The Apostles and the Torah: Reconstructing the First-Century Church"
-part: 4
-author: "Michael Wordsmith"
-date: 2025-11-05
-source: "https://medium.com/@MichaelWordsmith/the-apostles-and-the-torah-reconstructing-the-first-century-church-part-iv-halakhic-disputes-cc1ecc6bab32"
-license: "CC BY 4.0"
-summary: "Explores the halakhic nature of Yeshua’s and the apostles’ disputes, demonstrating that their debates occurred within Torah-observant Judaism and did not represent its abolition."
-tags: [Apostles, Torah, Halakhah, Yeshua, Early Church, Judaism, Sabbath, Colossians]
----
--->
 # Part IV: Halakhic Disputes, Not Abolition
 > **Editor’s Note:**  
 > This article is Part IV of the complete series (9 main parts + 5 supplemental studies) titled *“The Apostles and the Torah: Reconstructing the First-Century Church.”*  
