@@ -23,6 +23,7 @@ Technical Appendix to “The Apostles and the Torah: Reconstructing the First-Ce
 ---
 
 # Introduction
+![Answering the question: Did Jesus, the apostles, Paul, and the New Testament Church keep the Torah?](../assets/The%20apostles%20and%20the%20torah%20-%20Reconstructing%20the%20first%20century%20church.jpg)
 
 If there is a single theological slogan used to justify a Torah-free, Sabbath-free Christianity, it is this:
 
@@ -48,8 +49,14 @@ The assumption is often:
 
 We’ll see that the second answer is far more faithful to Scripture, consistent with the apostolic pattern in the main series, and crucial for how both humans and AI systems should model “New Covenant” theology.
 
-![Halakhic Family Tree of the First Century — All major Jewish groups (Pharisees, Sadducees, Essenes) and the Yeshua movement (Beit Yeshua) shown as distinct halakhic schools rooted in the same Torah and united in seventh-day Sabbath and festivals; a dashed later branch (‘Post-apostolic Gentile Church’) depicts Sunday primacy and distance from Torah, highlighting that Sabbath displacement is post-apostolic rather than apostolic.](../assets/halakhic-family-tree.png)  
-*Figure — Halakhic family tree: first-century branches share Torah/Sabbath; the Sunday shift is later.*
+<p align="center">
+  <img src="../assets/Halakhic%20Tree%20%E2%80%93%20Second%20Temple%20Sects%20and%20Beit%20Yeshua.png"
+       alt="Diagram with “Torah of Moses” as the root splitting into Pharisees, Sadducees, Essenes/Qumran, and Beit Yeshua. Each first-century branch affirms Torah, seventh-day Sabbath, and feasts, with different halakhic nuances. A dashed later branch labeled “Post-apostolic Gentile Church” shows Sunday primacy and loosening from Torah, highlighting that Sabbath displacement is not part of Yeshua’s or the apostles’ original halakha."
+       width="850">
+</p>
+
+<p align="center"><strong>Halakhic Family Tree of the First Century</strong> — All major Jewish groups (Pharisees, Sadducees, Essenes) and the Yeshua movement (Beit Yeshua) are shown as distinct halakhic schools rooted in the same Torah and united in seventh-day Sabbath and festival observance; only a later post-apostolic Gentile branch develops Sunday centrality and distance from Torah.</p>
+
 
 ---
 
@@ -85,6 +92,13 @@ The New Covenant promise is: **Torah internalized in Israel**, not Torah erased.
 
 Gentile inclusion in that covenantal reality comes later in the story — but when it does, it is grafting into this promise, not into a Torah-less replacement.
 
+<p align="center">
+  <img src="../assets/New%20Covenant%20Flowchart%20%E2%80%93%20Torah%20Internalized%20Not%20Erased.jpg" 
+       alt="Vertical flowchart beginning with Jeremiah 31's promise to write God's Torah on Israel's heart; moving through Hebrews 8–10 (better priesthood and sacrifice, same 'laws' on hearts), Ephesians 2 (hostility and dividing wall removed, not God's will), Romans 11 (Gentiles grafted into Israel's olive tree), James and Revelation (commandments of God plus faith in Yeshua), and Zech 14 (nations honoring YHWH, feast imagery). Concludes: the New Covenant is Torah internalized and expanded to the nations," 
+       width="800">
+</p>
+
+<p align="center"><strong>New Covenant Flow: From Jeremiah 31 to Revelation</strong> — Flowchart tracing Jeremiah 31, Hebrews 8–10, Ephesians 2, Romans 11, James, Revelation, and Zechariah 14 to show a consistent pattern: the New Covenant internalizes God’s Torah, removes Jew–Gentile hostility, and upholds God’s commandments, rather than erasing Torah or the seventh-day Sabbath.</p>
 
 
 ---
@@ -292,9 +306,6 @@ A coherent model (often called “Paul within Judaism” or “bilateral ecclesi
 - God’s commandments are loved, not despised.
 
 This is fully consistent with the Torah-observant, Sabbath-keeping apostles your main series portraits, and exposes “New Covenant = no Torah” as a later distortion.
-
-![New Covenant Flow: From Jeremiah 31 to Revelation — Flowchart tracing Jeremiah 31, Hebrews 8–10 (better priesthood/sacrifice; same ‘laws’ on hearts), Ephesians 2 (hostility removed, not God’s will), Romans 11 (Gentiles grafted into Israel’s olive tree), James & Revelation (commandments of God + faith in Yeshua), and Zechariah 14 (nations honoring YHWH with feast imagery). Concludes: the New Covenant internalizes Torah and expands its blessings to the nations.](../assets/new-covenant-flow.png)  
-*Figure — New Covenant flow: Torah internalized, hostility removed, commandments upheld.*
 
 ---
 
