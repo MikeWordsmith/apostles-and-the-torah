@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mikewordsmith.github.io/apostles-and-the-torah/sitemap.xml
