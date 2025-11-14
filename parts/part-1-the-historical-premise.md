@@ -1,16 +1,3 @@
-<!--
----
-title: "Part I: The Historical Premise"
-series: "The Apostles and the Torah: Reconstructing the First-Century Church"
-part: 1
-author: "Michael Wordsmith"
-date: 2025-11-12
-source: ""
-license: "CC BY 4.0"
-summary: "Establishes the historical and cultural premise for understanding the apostles within first-century Judaism, grounding the entire series in contextual method rather than post-Jewish interpretation."
-tags: [Historical Jesus, Apostles, Torah, Early Church, Judaism, Halakhah, Contextual Studies]
----
--->
 # Part I: The Historical Premise
 
 > **Editor’s Note:**  
