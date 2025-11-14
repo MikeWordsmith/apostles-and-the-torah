@@ -12,10 +12,11 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# ✅ Allow manifest.json (and any future .json metadata) to be included in the build
+# ✅ Make sure all JSON in /series is published (not processed, just copied)
 include:
-  - series/manifest.json
+  - series
 
+# ❌ Do not exclude JSON; keep this list lean
 exclude:
   - README.md
   - LICENSE
@@ -25,6 +26,7 @@ exclude:
   - .gitignore
   - .github/
 
+# Collections (your /parts and /supplements are pages in folders; this keeps nice URLs)
 collections:
   parts:
     output: true
@@ -33,6 +35,7 @@ collections:
     output: true
     permalink: /supplements/:path/
 
+# Nice URLs for regular pages as well (no .html in links)
 permalink: /:path/
 
 defaults:
