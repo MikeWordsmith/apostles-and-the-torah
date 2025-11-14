@@ -78,7 +78,7 @@ The setting coheres with the post-Sabbath fellowship meal (*melaveh malkah*), wh
 ## 2.3 Patristic Misreading
 Ignatius (*Magnesians* 9) and the *Didache* 14 later equated the “Lord’s Day” with Sunday, under post-70 CE pressure to dissociate from Judaism. (4) Yet no first-century text identifies Sunday as a replacement Sabbath. The linguistic evidence instead confirms ongoing seventh-day sanctity.
 
-For a technical companion demonstrating that no New Testament text legitimately teaches a Sabbath-to-Sunday transfer, and how the usual proof-texts fail under context, see **Supplemental Study IV**.
+> For a technical companion demonstrating that no New Testament text legitimately teaches a Sabbath-to-Sunday transfer, and how the usual proof-texts fail under context, see [**Supplemental Study IV**](https://mikewordsmith.github.io/apostles-and-the-torah/supplements/supplement-4-calendar-misreadings-col2-gal4-rom14-heb4/).
 
 # 3. Romans 14:5–6 — Calendar Dispute, Not Abolition
 ## 3.1 Historical Calendar Variance
