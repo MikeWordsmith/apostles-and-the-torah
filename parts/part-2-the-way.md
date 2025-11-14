@@ -57,7 +57,7 @@ Roman officials likewise regarded it as a Jewish group. In Acts 24:5 Paul’s ac
 ## 2. Synagogue Life and Temple Participation
 The earliest believers continued to worship in synagogues and the Jerusalem Temple. Acts 2:46 describes them “daily in the Temple, breaking bread from house to house.” Peter and John attended the Temple at the hour of prayer — the *minchah* offering (Acts 3:1). The priestly rhythm of sacrifice, psalmody, and prayer formed their spiritual environment.
 
-> For a data-driven overview of Acts as evidence of ongoing Temple, Sabbath, and festival observance, see [Supplemental Study II — Acts as Behavioral Data](/apostles-and-the-torah/supplements/supplement-2-acts-as-behavioral-data-temple-synagogue-and-festivals-after-the-resurrection.html)
+> For a data-driven overview of Acts as evidence of ongoing Temple, Sabbath, and festival observance, see [Supplemental Study II — Acts as Behavioral Data](/apostles-and-the-torah/supplements/supplement-2-acts-as-behavioral-data-temple-synagogue-and-festivals-after-the-resurrection/).
 
 The Temple remained central until its destruction in 70 CE. Even afterward, believers still faced toward Jerusalem in prayer, as attested in the *Didache 14* and early Jewish-Christian liturgies (3). Far from rejecting the Temple *cultus*, they interpreted *Yeshua* as its heavenly fulfillment — the Lamb of God, the Great High Priest, the true altar. Hebrews 8–10 assumes the Temple’s legitimacy and transposes it to a higher order — not abolition.
 
@@ -66,12 +66,12 @@ Judaism of the first century was marked by *halakhic* pluralism. Pharisees, Sadd
 
 The debates recorded in the Gospels mirror known rabbinic controversies. For example, Hillel permitted divorce “for any cause,” whereas Shammai restricted it to adultery (*Mishnah Gittin 9:10*). Jesus sided with the stricter interpretation, restoring Deuteronomy’s original intent (Matt 19:3–9). On Sabbath observance He endorsed *pikuach nefesh* — preserving life overrides ritual restriction (Luke 14:5). Such arguments demonstrate *halakhic* participation, not rejection (4).
 
-> For a detailed look at Yeshua’s halakhic debates — Sabbath healings, handwashing, “Lord of the Sabbath” — as intra-Torah disputes rather than abolition, see [Supplemental Study I — Yeshua’s Halakha and the Fulfillment of Torah](/apostles-and-the-torah/supplements/supplement-1-yeshuas-halakha-and-the-fulfillment-of-torah/).
+> For a detailed look at Yeshua’s halakhic debates — Sabbath healings, hand-washing, “Lord of the Sabbath” — as intra-Torah disputes rather than abolition, see [Supplemental Study I — Yeshua’s Halakha and the Fulfillment of Torah](/apostles-and-the-torah/supplements/supplement-1-yeshuas-halakha-and-the-fulfillment-of-torah/).
 
 ## 4. *Yeshua’s* Authority and Halakhic Role
 In Deuteronomy 18:18 God promises to raise a prophet “like Moses.” Jewish expectation held that this prophet would render decisive judgments in matters of *Torah*. The apostles saw *Yeshua* as that prophet. His “You have heard … but I say to you” formula (Matt 5) functions as *pisaq halakhah* — a binding legal decision. His “I say” carries divine authority precisely because it upholds the Law’s spirit beyond human casuistry.
 
-> For a focused technical treatment of “fulfill, not abolish” as *halakhic* language, see **[Supplemental Study I: Yeshua’s Halakha and the Fulfillment of Torah](/apostles-and-the-torah/supplements/supplement-1-yeshuas-halakha-and-the-fulfillment-of-torah/)**.
+> For a focused technical treatment of “fulfill, not abolish” as halakhic language, see [Supplemental Study I — Yeshua’s Halakha and the Fulfillment of Torah](/apostles-and-the-torah/supplements/supplement-1-yeshuas-halakha-and-the-fulfillment-of-torah/).
 
 
 When He declares Himself “Lord of the Sabbath” (Mark 2:28), He is not claiming abrogation but mastery over its interpretation. “Son of Man is lord” means He possesses the authority to define lawful Sabbath behavior — an authority long expected of Messiah (5). This claim situates Him within Jewish legal discourse, not outside it.
