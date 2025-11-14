@@ -120,8 +120,7 @@ The evidence from language, culture, and Scripture confirms that the first-centu
 
 ## 📖 Continue the Series
 > **Series overview & index:** *The Apostles and the Torah — Complete 9-Part Core + 5 Supplemental Technical Studies:* [Open the Series Home (Index & Abstract)]()
-
-<br><br>
+<br>
 <strong>Core (9):</strong> 
 <a href="../parts/part-1-the-historical-premise.md">I</a> • 
 <a href="../parts/part-2-the-way.md">II</a> • 
@@ -133,7 +132,7 @@ The evidence from language, culture, and Scripture confirms that the first-centu
 <a href="../parts/part-8-the-restoration-of-the-apostolic-vision.md">VIII</a> • 
 <a href="../parts/part-9-conclusion-torah-and-grace-in-harmony.md">IX</a>  
 <br>
-
+<br>
 <div align="left">
 <strong>Supplements (5):</strong>
 <a href="../supplements/supplement-1-yeshuas-halakha-and-the-fulfillment-of-torah.md">I</a> • 
