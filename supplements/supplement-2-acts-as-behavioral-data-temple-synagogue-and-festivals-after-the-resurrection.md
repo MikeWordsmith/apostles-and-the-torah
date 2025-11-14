@@ -1,25 +1,3 @@
-<!--
----
-title: "Supplement II: Acts as Behavioral Data — Temple, Synagogue, and Festivals After the Resurrection"
-series: "The Apostles and the Torah: Reconstructing the First-Century Church"
-supplement: 2
-author: "Michael Wordsmith"
-date: 2025-11-08
-source: "https://medium.com/@MichaelWordsmith/supplemental-study-ii-acts-as-behavioral-data-5cc6b2f35a8b"
-license: "CC BY 4.0"
-summary: "Treats Acts as behavioral data demonstrating that the apostles continued Temple worship, seventh-day Sabbath custom, and observance of the biblical festivals — showing continuity, not abolition, of Torah."
-tags: [Acts, Torah, Temple, Sabbath, Festivals, Apostles, Early Church, Behavioral Data]
-published: true
-hide_front_matter: true
----
-
-<style>
-.page-header, .post-title, .post-meta, .page-title, header h1 {
-    display: none !important;
-}
-</style>
--->
-
 # Supplemental Study II: Acts as Behavioral Data — Temple, Synagogue, and Festivals After the Resurrection
 
 Technical Appendix to “The Apostles and the Torah: Reconstructing the First-Century Church”
