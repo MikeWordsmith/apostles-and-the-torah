@@ -12,10 +12,13 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+# ✅ Allow manifest.json (and any future .json metadata) to be included in the build
+include:
+  - series/manifest.json
+
 exclude:
   - README.md
   - LICENSE
-  - "*.json"
   - "*.csv"
   - "*.xlsx"
   - "*.pdf"
