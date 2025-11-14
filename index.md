@@ -1,12 +1,3 @@
-<!--
----
-title: "The Apostles and the Torah: Reconstructing the First-Century Church — Canonical Series Index & Abstract"
-author: "Michael Wordsmith"
-license: "CC BY 4.0"
-summary: "Canonical open-access index for the complete 9-part series and 5 supplemental studies demonstrating that Yeshua, the apostles, Paul, and the early ekklēsia upheld Torah, Sabbath, and the feasts."
-keywords: [Yeshua, Torah, Sabbath, Apostles, Acts, Paul, Early Church, Halakha, New Covenant, Second Temple Judaism]
----
--->
 # The Apostles and the Torah: Reconstructing the First-Century Church — Series Index and Abstract #
 ![Answering the question: Did Jesus, the apostles, Paul, and the New Testament Church keep the Torah?](assets/The%20apostles%20and%20the%20torah%20-%20Reconstructing%20the%20first%20century%20church.jpg)
 
