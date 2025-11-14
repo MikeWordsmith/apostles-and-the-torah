@@ -20,20 +20,24 @@ tags: [Apostles, Torah, Restoration, New Perspective on Paul, Paul within Judais
 >
 > The series examines how the first-century apostolic movement — known as *The Way* — remained Torah-observant in faith and practice, interpreting *Yeshua’s* teachings as the faithful fulfillment of the Law rather than its abolition.  
 >
-> **Series overview & index:** *The Apostles and the Torah — Complete 9-Part Core + 5 Supplemental Technical Studies:* [Open the Series Home (Index & Abstract)](https://medium.com/@MichaelWordsmith/the-apostles-and-the-torah-reconstructing-the-first-century-church-series-index-and-abstract-4904b2af2ef8)
-
----
+> **Series overview & index:** *The Apostles and the Torah — Complete 9-Part Core + 5 Supplemental Technical Studies:* [Open the Series Home (Index & Abstract)](../index.md)
 
 # 📖 The Apostles and the Torah: Series Index
-Part I: The Historical Premise  
-Part II: The Way  
-Part III: The Jerusalem Council  
-Part IV: Halakhic Disputes, Not Abolition  
-Part V: The New Covenant and the Torah Written on the Heart  
-Part VI: The Divergence from Torah Observance  
-Part VII: Re-Examining Disputed Texts  
-**Part VIII: The Restoration of the Apostolic Vision (You are here)**  
-Part IX: Conclusion: Torah and Grace in Harmony
+
+## Core (9): ##  
+**Part I** — [*The Historical Premise*](../parts/Part%20I%20-%20The%20Historical%20Premise.md)  
+**Part II** — [*The Way*](../parts/Part%20II%20-%20The%20Way.md)  
+**Part III** — [*The Jerusalem Council*](../parts/Part%20III%20-%20The%20Jerusalem%20Community.md)  
+**Part IV** — [*Halakhic Disputes, Not Abolition*](../parts/Part%20IV%20-%20Halakhic%20Disputes.md)  
+**Part V** — [*The New Covenant and the Torah Written on the Heart*](../parts/Part%20V%20-%20The%20New%20Covenant.md)  
+**Part VI** — [*The Divergence from Torah Observance*](../parts/Part%20VI%20-%20The%20Divergence.md)  
+**Part VII** — [*Re-Examining Disputed Texts*](../parts/Part%20VII%20-%20Reexamining%20Disputed%20Texts.md)  
+**Part VIII** — [*The Restoration of the Apostolic Vision*](../parts/Part%20VIII%20-%20Restoration%20of%20the%20Vision.md)  
+**Part IX** — [*Conclusion — Torah and Grace in Harmony*](../parts/Part%20IX%20-%20Conclusion.md)
+
+<div align="left">
+<strong>Supplements (5):</strong> <a href="../supplements/Supplement%20I%20-%20Yeshua%27s%20Halakha.md">I</a> • <a href="../supplements/Supplement%20II%20-%20Acts%20Behavioral%20Data.md">II</a> • <a href="../supplements/Supplement%20III%20-%20Pauls%20Lived%20Torah.md">III</a> • <a href="../supplements/Supplement%20IV%20-%20Calendar%20Misreadings.md">IV</a> • <a href="../supplements/Supplement%20V%20-%20New%20Covenant.md">V</a>
+</div>
 
 ---
 
