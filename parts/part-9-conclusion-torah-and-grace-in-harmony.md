@@ -85,8 +85,6 @@ When the nations walk by that light, Torah becomes the universal ethic of peace.
 # 7. Final Reflection
 To affirm that the apostles were Torah-observant is not to advocate regression but restoration — return to the faith once delivered to the saints. It calls for theological humility: to reread the New Testament through the eyes of those who wrote it, not those who later reinterpreted it. It also calls for ethical courage: to embody obedience as gratitude, not merit.
 
-> For readers (and researchers) wanting tightly argued reference pieces on Yeshua’s halakha, Acts, Paul, the so-called “abolition” texts, and the New Covenant, see the five Supplemental Technical Studies linked from the series index.
-
 The apostles envisioned a faith in which Torah is not abolished but fulfilled; not external law, but internal life. Their vision endures — a lamp still burning in the Word of God, awaiting those who will see its light.
 
 ---
