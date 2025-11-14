@@ -91,7 +91,7 @@ The apostles understood Messiah as the final interpreter of *Torah’s* intent. 
 
 This understanding fulfills rather than negates Deuteronomy 18’s promise of a prophet-judge like Moses. Messiah’s halakhic authority corrected misapplications but upheld every commandment’s sanctity.
 
-> For a technical breakdown of Acts 15 that distinguishes anti-legalism from anti-Torah and shows how it fits the wider apostolic pattern, see **Supplemental Study II.**
+> For a technical breakdown of Acts 15 that distinguishes anti-legalism from anti-Torah and shows how it fits the wider apostolic pattern, see [**Supplemental Study II**](https://mikewordsmith.github.io/apostles-and-the-torah/supplements/supplement-2-acts-as-behavioral-data-temple-synagogue-and-festivals-after-the-resurrection/).
 
 ## 10. Summary of Section IV
 - Apostolic disputes with Pharisees were intra-Jewish *halakhic* debates, not rejection of *Torah*.  
