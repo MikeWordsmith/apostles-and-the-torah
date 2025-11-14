@@ -1,16 +1,3 @@
-<!--
----
-title: "Part VII: Re-Examining Disputed Texts"
-series: "The Apostles and the Torah: Reconstructing the First-Century Church"
-part: 7
-author: "Michael Wordsmith"
-date: 2025-11-07
-source: "https://medium.com/@MichaelWordsmith/the-apostles-and-the-torah-reconstructing-the-first-century-church-part-vii-re-examining-6ce3c89f4f6a"
-license: "CC BY 4.0"
-summary: "Re-examines the standard New Testament proof-texts used to claim Torah abolition—Acts 20/1 Cor 16, Romans 14, Colossians 2, Galatians 4, Mark 7, Acts 10–11, Acts 15, and Hebrews 4—showing that, read in their first-century Jewish context, they affirm continuity rather than a Sabbath-to-Sunday transfer."
-tags: [Apostles, Torah, New Testament, Sabbath, Sunday, Romans 14, Colossians 2, Galatians 4, Mark 7, Acts 15, Hebrews 4, Halakhah, Second Temple Judaism]
----
--->
 # Part VII: Re-Examining Disputed Texts
 
 > **Editor’s Note:**  
