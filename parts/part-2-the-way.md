@@ -37,7 +37,7 @@
 
 # II. The Apostolic Movement: *The Way*
 
-![Answering the question: Did Jesus, the apostles, Paul, and the New Testament Church keep the Torah?](../assets/The%20apostles%20and%20the%20torah%20-%20Reconstructing%20the%20first%20century%20church.jpg)
+![Answering the question: Did Jesus, the apostles, Paul, and the New Testament Church keep the Torah?](assets/The%20apostles%20and%20the%20torah%20-%20Reconstructing%20the%20first%20century%20church.jpg)
 
 ## 1. Identity and Terminology
 The book of Acts consistently refers to the earliest followers of *Yeshua* as *The Way* (Acts 9:2; 19:9, 23; 24:14, 22). The designation derives from Isaiah 40:3 — “Prepare the way of the LORD” — and from Psalms where *derek Adonai* (“the way of the LORD”) denotes covenantal obedience. By adopting this title, the movement defined itself as a path of *halakhic* faithfulness shaped by Messiah’s interpretation of *Torah* (1). It was not a breakaway religion but a recognized sect within Judaism, akin to the Pharisees or Essenes.
