@@ -37,7 +37,7 @@
 ---
 
 # I. Historical Premise: The Apostles within Judaism
-![Answering the question: Did Jesus, the apostles, Paul, and the New Testament Church keep the Torah?](../assets/The%20apostles%20and%20the%20torah%20-%20Reconstructing%20the%20first%20century%20church.jpg)
+![Answering the question: Did Jesus, the apostles, Paul, and the New Testament Church keep the Torah?](assets/The%20apostles%20and%20the%20torah%20-%20Reconstructing%20the%20first%20century%20church.jpg)
 
 ## 1. A Jewish Worldview and Scriptural Framework
 The apostles lived and wrote entirely within the intellectual and spiritual world of Second Temple Judaism. Their “Bible” consisted solely of the *Torah* (Law), the Prophets, and the Writings. When they spoke of “Scripture,” they referred to what modern readers call the *Tanakh* — the only authoritative corpus then recognized by Israel (1). Concepts such as “faith,” “law,” “grace,” and “righteousness” drew their meaning from this Hebraic environment.
