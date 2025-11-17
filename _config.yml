@@ -4,6 +4,8 @@ url: "https://mikewordsmith.github.io"
 baseurl: "/apostles-and-the-torah"
 author: "Michael Wordsmith"
 
+logo: "/apostles-and-the-torah/assets/The apostles and the torah - Reconstructing the first century church.jpg"
+
 theme: minima
 markdown: kramdown
 highlighter: rouge
